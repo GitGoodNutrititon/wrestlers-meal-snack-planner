@@ -28,16 +28,6 @@ export function checkMembershipAccess(): boolean {
   const hasValidAccess = isFromMembershipSite || isSquarespaceDomain;
 
   if (!hasValidAccess) {
-    // Debug info (only in development)
-    if (process.env.NODE_ENV === 'development') {
-      console.log('Access denied. Debug info:', {
-        referrer,
-        currentDomain,
-        allowedDomains,
-        isFromMembershipSite,
-        isSquarespaceDomain
-      });
-    }
     showAccessDeniedMessage();
     return false;
   }
