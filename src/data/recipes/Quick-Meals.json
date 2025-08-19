@@ -1,0 +1,449 @@
+[
+  {
+    "id": "quick-001",
+    "title": "15-Minute Beef Ramen Skillet",
+    "description": "One-pan beef and ramen with bagged slaw for a true 15-minute, family-approved protein meal.",
+    "servings": 4,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Kid-Friendly", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground beef","quantity":"1 lb","notes":"Brown well"},
+      {"item":"Ramen noodles","quantity":"3 packs (discard seasoning)","notes":"Budget-friendly"},
+      {"item":"Bagged coleslaw mix","quantity":"12 oz","notes":"No chopping"},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":"Flavor"},
+      {"item":"Garlic powder","quantity":"1 tsp","notes":"Shortcut"},
+      {"item":"Neutral oil","quantity":"1 tbsp","notes":"Cooking"},
+      {"item":"Water","quantity":"2 cups","notes":"For steaming noodles"}
+    ],
+    "instructions": [
+      "Brown beef in oil over medium-high heat; drain if needed.",
+      "Add water, ramen bricks, coleslaw, soy, and garlic powder; cover 3–4 minutes.",
+      "Toss until noodles are tender and lightly glossy; serve."
+    ],
+    "wrestling_specific_benefits": [
+      "High protein supports athlete needs on busy nights",
+      "One pan minimizes cleanup to prevent parent burnout"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"520"}
+  },
+  {
+    "id": "quick-002",
+    "title": "Sheet Pan Baked Chicken Tacos",
+    "description": "Four-ingredient sheet pan tacos using rotisserie chicken for realistic, quick dinners.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy (Time:2 + Skills:1 + Ingredients:1 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Kid-Friendly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Rotisserie chicken (shredded)","quantity":"3 cups","notes":"Shortcut protein"},
+      {"item":"Refried beans","quantity":"1 can (15 oz)","notes":"Spread"},
+      {"item":"Shredded cheese","quantity":"1 1/2 cups","notes":"Melt"},
+      {"item":"Tortillas","quantity":"12 small","notes":"Warm on sheet pan; use large sheet pan (18×13 inches) if available"}
+    ],
+    "instructions": [
+      "Spread beans on tortillas; top with chicken and cheese.",
+      "Bake on a large sheet pan (18×13 inches) at 400°F for 10–12 minutes until cheese is melted and tortillas are crisp at edges.",
+      "Serve with bagged salad to complete the meal."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward tacos that reheat well for leftovers",
+      "Sheet pan method reduces dishes and time"
+    ],
+    "nutrition_highlights": {"protein":"28g","calories":"480"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-003",
+    "title": "One-Pan Chicken Enchilada Skillet",
+    "description": "Dump-and-simmer skillet with rotisserie chicken and pantry staples for minimal cleanup and fast results.",
+    "servings": 4,
+    "prep_time": 8,
+    "cook_time": 15,
+    "total_time": 23,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Rotisserie chicken (shredded)","quantity":"3 cups","notes":"Protein"},
+      {"item":"Enchilada sauce","quantity":"2 cups","notes":"Jarred or canned"},
+      {"item":"Black beans","quantity":"one 15-oz can, drained and rinsed","notes":"Standard can size; reduces waste"},
+      {"item":"Corn","quantity":"2 cups","notes":"Use entire 15-oz can drained or 2 cups frozen"},
+      {"item":"Tortillas (cut strips)","quantity":"6 small","notes":"Shortcut noodles"},
+      {"item":"Shredded cheese","quantity":"1 cup","notes":"Melt to finish"}
+    ],
+    "instructions": [
+      "Simmer sauce, beans, corn, tortilla strips 5–7 minutes.",
+      "Stir in chicken to warm; top with cheese and melt.",
+      "Serve with bagged salad or pre-cut veggies."
+    ],
+    "wrestling_specific_benefits": [
+      "Balanced meal meets athlete protein needs",
+      "One-pan approach minimizes cleanup time"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-004",
+    "title": "Quick Beef & Potato Skillet",
+    "description": "Meat-and-potatoes classic optimized for speed using small dice and one pan.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy (Time:2 + Skills:1 + Ingredients:2 = 5)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground beef","quantity":"1 lb","notes":"Brown well"},
+      {"item":"Potatoes","quantity":"3 cups, small dice","notes":"Microwave 4 minutes to jump-start"},
+      {"item":"Onion (pre-diced)","quantity":"1 cup","notes":"Shortcut"},
+      {"item":"Paprika","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Salt","quantity":"3/4 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Brown beef; add microwaved potatoes and onion; sauté until browned.",
+      "Season with paprika, salt, pepper; serve."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein + complex carbs fuel training and growth",
+      "Minimal dishes prevents burnout"
+    ],
+    "nutrition_highlights": {"protein":"29g","calories":"520"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-005",
+    "title": "Egg Roll in a Bowl (15 Minutes)",
+    "description": "Cabbage slaw and ground turkey with soy-ginger seasoning for a fast, one-pan dinner.",
+    "servings": 4,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground turkey","quantity":"1 lb","notes":"Protein"},
+      {"item":"Coleslaw mix","quantity":"12 oz","notes":"No chopping"},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":"Flavor"},
+      {"item":"Garlic powder","quantity":"1 tsp","notes":"Shortcut"},
+      {"item":"Ginger powder","quantity":"1/2 tsp","notes":"Shortcut"}
+    ],
+    "instructions": [
+      "Brown turkey; add coleslaw, soy, garlic, and ginger; toss 3–4 minutes.",
+      "Serve over microwave rice if desired."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein target met with minimal prep",
+      "Family-friendly flavors increase compliance"
+    ],
+    "nutrition_highlights": {"protein":"27g","calories":"430"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-006",
+    "title": "BBQ Chicken Power Bowls",
+    "description": "10-minute assembly bowls using rotisserie chicken and microwave grains for a no-cook dinner.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "Assembly", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Microwave rice packets","quantity":"2 (8.8 oz each)","notes":"Whole grain preferred"},
+      {"item":"Rotisserie chicken","quantity":"3 cups, shredded","notes":"Protein"},
+      {"item":"BBQ sauce","quantity":"1/3 cup","notes":"Flavor"},
+      {"item":"Bagged salad","quantity":"1 bag","notes":"Side"}
+    ],
+    "instructions": [
+      "Microwave rice; toss chicken with BBQ sauce.",
+      "Assemble bowls with rice and chicken; serve with salad."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward dinner with zero cooking",
+      "Scales easily for multiple athletes"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-007",
+    "title": "Turkey Zucchini Skillet",
+    "description": "Lasagna-style flavors in a lighter, faster skillet format using pre-diced vegetables.",
+    "servings": 4,
+    "prep_time": 8,
+    "cook_time": 15,
+    "total_time": 23,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground turkey","quantity":"1 lb","notes":"Protein"},
+      {"item":"Jarred marinara","quantity":"2 cups","notes":"Sauce"},
+      {"item":"Zucchini (pre-diced)","quantity":"2 cups","notes":"Shortcut"},
+      {"item":"Italian seasoning","quantity":"1 tsp","notes":"Flavor"},
+      {"item":"Mozzarella","quantity":"1 cup, shredded","notes":"Finish"}
+    ],
+    "instructions": [
+      "Brown turkey; add zucchini, marinara, seasoning; simmer 5–7 minutes.",
+      "Top with mozzarella to melt and serve."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-rich comfort meal done fast",
+      "One-pan and shortcuts reduce total time"
+    ],
+    "nutrition_highlights": {"protein":"28g","calories":"470"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-008",
+    "title": "Chicken Tenders & Broccoli Sheet Pan",
+    "description": "Kid-friendly sheet pan tenders and broccoli with honest timing and minimal cleanup.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Kid-Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken tenders","quantity":"1 1/2 lb","notes":"Protein"},
+      {"item":"Broccoli florets","quantity":"4 cups","notes":"Frozen ok"},
+      {"item":"Olive oil","quantity":"2 tbsp","notes":"Coat"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"}
+    ],
+      "instructions": [
+      "Toss tenders and broccoli with oil, salt, pepper on a large sheet pan (18×13 inches).",
+      "Bake at 425°F for 15–18 minutes, flipping once, until chicken reaches 165°F internal temperature and broccoli is tender-crisp."
+      ],
+    "wrestling_specific_benefits": [
+      "Solid protein + vegetable pairing with minimal effort",
+      "Scales to two pans for team dinners"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"480"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-009",
+    "title": "Marry Me Chicken Pasta (Weeknight)",
+    "description": "30-minute version of the internet classic adapted for busy wrestling families.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Quick Meals", "High-Protein", "Comfort Food", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 lb, sliced","notes":"Protein"},
+      {"item":"Pasta","quantity":"one 16-oz box","notes":"Cooked; using full box prevents waste"},
+      {"item":"Sun-dried tomatoes","quantity":"1/3 cup, chopped","notes":"Flavor"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Half-and-half","quantity":"1 cup","notes":"Quick sauce"},
+      {"item":"Parmesan","quantity":"1/3 cup, grated","notes":"Finish"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Searing"},
+      {"item":"Salt","quantity":"3/4 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sear chicken; remove. Sauté (cook quickly in a small amount of oil over medium heat) garlic, add half-and-half and sun-dried tomatoes; simmer 3–4 minutes until slightly thickened.",
+      "Return chicken; toss with pasta and Parmesan; season."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein comfort meal improves adherence",
+      "Time-honest approach fits weeknights"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"620"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-010",
+    "title": "Creamy Chicken Orzo Bake",
+    "description": "Dump-and-bake orzo with chicken and vegetables for a hands-off family dinner.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 30,
+    "total_time": 40,
+    "difficulty": "Medium (Time:3 + Skills:1 + Ingredients:2 = 6)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Vegetarian", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Orzo","quantity":"1 1/2 cups (dry)","notes":"About 12 oz"},
+      {"item":"Chicken breast","quantity":"1 1/4 lb, diced","notes":""},
+      {"item":"Chicken broth","quantity":"3 cups","notes":""},
+      {"item":"Frozen mixed vegetables","quantity":"2 cups","notes":""},
+      {"item":"Cream cheese (light)","quantity":"4 oz","notes":""},
+      {"item":"Garlic powder","quantity":"1 tsp","notes":""},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Combine all in a baking dish; cover and bake at 400°F for 30–35 minutes, stirring once.",
+      "Rest 5 minutes, stir until creamy and pasta is tender, and serve."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein, reheats well for leftovers",
+      "Hands-off method saves active time"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"540"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-011",
+    "title": "Ground Beef Casserole (No Canned Soup)",
+    "description": "Simple, hearty casserole delivering protein with basic pantry ingredients and minimal cleanup.",
+    "servings": 6,
+    "prep_time": 12,
+    "cook_time": 25,
+    "total_time": 37,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Quick Meals", "High-Protein", "Comfort Food", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground beef","quantity":"1 1/2 lb","notes":"Brown"},
+      {"item":"Pasta sauce","quantity":"one 24–25 oz jar (about 3 cups)","notes":"Use entire jar to prevent waste"},
+      {"item":"Pasta (short)","quantity":"one 16-oz box (uncooked), parboiled 5 min","notes":"Using full box prevents waste; parboiling speeds bake"},
+      {"item":"Mozzarella","quantity":"2 cups","notes":""},
+      {"item":"Italian seasoning","quantity":"1 tsp","notes":""}
+    ],
+    "instructions": [
+      "Brown beef; mix with sauce and parboiled pasta; transfer to dish; top with mozzarella and bake 20 minutes at 375°F.",
+      "Rest 5 minutes and serve."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein and carbs support busy training nights",
+      "Leftovers simplify next-day meals"
+    ],
+    "nutrition_highlights": {"protein":"31g","calories":"560"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-012",
+    "title": "Chicken Salad Power Wraps",
+    "description": "Rotisserie-based wraps with Greek yogurt dressing for a protein boost and 10-minute assembly.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "Assembly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Rotisserie chicken (shredded)","quantity":"3 cups","notes":""},
+      {"item":"Greek yogurt","quantity":"1/2 cup","notes":"Dressing"},
+      {"item":"Mustard","quantity":"1 tbsp","notes":""},
+      {"item":"Celery (pre-diced)","quantity":"1/2 cup","notes":""},
+      {"item":"Tortillas","quantity":"4 large","notes":""}
+    ],
+    "instructions": [
+      "Mix yogurt and mustard; fold in chicken and celery.",
+      "Fill tortillas and roll into wraps."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein, quick assembly for post-practice dinners",
+      "Easy to scale for multiple athletes"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-013",
+    "title": "One-Pan Sausage & Vegetables",
+    "description": "Dump-and-roast sausage with mixed vegetables for a simple, satisfying tray dinner.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "Easy (Time:2 + Skills:1 + Ingredients:2 = 5)",
+    "tags": ["Quick Meals", "One-Pan", "Comfort Food", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals"],
+    "ingredients": [
+      {"item":"Smoked sausage (turkey or chicken)","quantity":"1 lb, sliced","notes":""},
+      {"item":"Frozen mixed vegetables","quantity":"4 cups","notes":""},
+      {"item":"Olive oil","quantity":"1 1/2 tbsp","notes":""},
+      {"item":"Salt","quantity":"3/4 tsp","notes":""},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":""}
+    ],
+    "instructions": [
+      "Toss all on a large sheet pan (18×13 inches); roast at 425°F for 20 minutes, stirring once."
+    ],
+    "wrestling_specific_benefits": [
+      "Minimal cleanup keeps quick-meal promise",
+      "Balanced protein and vegetables for athletes"
+    ],
+    "nutrition_highlights": {"protein":"24g","calories":"480"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-014",
+    "title": "Quick Turkey Taco Skillet",
+    "description": "20-minute family taco skillet using pantry spices and pre-diced onions.",
+    "servings": 4,
+    "prep_time": 8,
+    "cook_time": 12,
+    "total_time": 20,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Quick Meals", "High-Protein", "One-Pan", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground turkey","quantity":"1 lb","notes":""},
+      {"item":"Onion (pre-diced)","quantity":"1 cup","notes":""},
+      {"item":"Tomato sauce","quantity":"1 cup","notes":""},
+      {"item":"Taco seasoning","quantity":"2 tbsp","notes":""},
+      {"item":"Tortilla chips or warmed tortillas","quantity":"For serving","notes":""}
+    ],
+    "instructions": [
+      "Brown turkey with onion; add tomato sauce and seasoning; simmer 5 minutes.",
+      "Serve with chips or tortillas and bagged salad."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-focused taco night done in 20 minutes",
+      "Family appeal increases consistency"
+    ],
+    "nutrition_highlights": {"protein":"27g","calories":"490"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "quick-015",
+    "title": "Buffalo Chicken Mac (Fast)",
+    "description": "Comfort food with a protein boost using rotisserie chicken and boxed mac for an honest 25–30 minute meal.",
+    "servings": 6,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy (Time:2 + Skills:1 + Ingredients:2 = 5)",
+    "tags": ["Quick Meals", "High-Protein", "Comfort Food", "Vegetarian", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Quick Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Boxed macaroni and cheese","quantity":"2 boxes","notes":"Prepare per box"},
+      {"item":"Rotisserie chicken (shredded)","quantity":"3 cups","notes":"Protein"},
+      {"item":"Hot sauce","quantity":"2–3 tbsp","notes":"Adjust to taste"},
+      {"item":"Greek yogurt","quantity":"1/2 cup","notes":"Protein boost"}
+    ],
+    "instructions": [
+      "Prepare mac and cheese; fold in chicken, hot sauce, and yogurt; heat through.",
+      "Serve with steamed frozen broccoli for balance."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward comfort food increases adherence",
+      "Adds vegetables with minimal extra time"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"620"},
+    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+  }
+]
+
+
+

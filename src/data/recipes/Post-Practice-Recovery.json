@@ -1,0 +1,410 @@
+[
+  {
+    "id": "recovery-immediate-001",
+    "title": "Chocolate Milk Plus",
+    "description": "Immediate post-practice recovery beverage with near-perfect carb-to-protein ratio and electrolytes.",
+    "servings": 1,
+    "prep_time": 1,
+    "cook_time": 0,
+    "total_time": 1,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Quick Meals", "Vegetarian", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Low-fat chocolate milk","quantity":"16–20 oz","notes":"Cold"},
+      {"item":"Banana (optional)","quantity":"1 small","notes":"For extra carbs"}
+    ],
+    "instructions": [
+      "Drink chocolate milk immediately after practice.",
+      "Eat banana alongside if very depleted."
+    ],
+    "wrestling_specific_benefits": [
+      "Delivers 2–3:1 carb-to-protein ratio for optimal recovery",
+      "Fluid and electrolytes aid rehydration after heavy sweating"
+    ],
+    "nutrition_highlights": {"protein":"16g","carbohydrates":"48g","calories":"280"},
+    "storage": "Best consumed immediately; if prepared ahead, keep refrigerated and consume within 3–4 days."
+  },
+  {
+    "id": "recovery-immediate-002",
+    "title": "Ready-to-Drink Protein Shake + Banana",
+    "description": "Zero-prep combo to kickstart recovery within minutes of practice ending.",
+    "servings": 1,
+    "prep_time": 1,
+    "cook_time": 0,
+    "total_time": 1,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Quick Meals", "Vegetarian", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Ready-to-drink protein shake","quantity":"1 (20g protein)","notes":"Shelf-stable"},
+      {"item":"Banana","quantity":"1 medium","notes":"Fast carbs"}
+    ],
+    "instructions": [
+      "Drink the shake and eat the banana within 0–15 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Meets protein minimum while providing quick-digesting carbs",
+      "Portable for locker-room or car ride recovery"
+    ],
+    "nutrition_highlights": {"protein":"20g","carbohydrates":"40g","calories":"300"},
+    "storage": "Shelf-stable shakes: follow label; consume fruit same day."
+  },
+  {
+    "id": "recovery-immediate-003",
+    "title": "Greek Yogurt Honey Cup",
+    "description": "Simple, portable protein + carb combo for immediate recovery when kitchens aren't available.",
+    "servings": 1,
+    "prep_time": 2,
+    "cook_time": 0,
+    "total_time": 2,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Quick Meals", "Vegetarian", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Greek yogurt","quantity":"one 6-oz container (about 3/4 cup)","notes":"~18g protein"},
+      {"item":"Honey","quantity":"1 tbsp","notes":"Adds carbs"}
+    ],
+    "instructions": [
+      "Stir honey into yogurt and eat immediately."
+    ],
+    "wrestling_specific_benefits": [
+      "18g protein meets recovery minimums",
+      "Honey adds quick carbs to replenish glycogen"
+    ],
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"25g","calories":"230"},
+    "storage": "Keep refrigerated; consume within 3–4 days."
+  },
+  {
+    "id": "recovery-immediate-004",
+    "title": "Protein Bar + Fruit",
+    "description": "Grab-and-go option combining protein with simple carbs to begin recovery fast.",
+    "servings": 1,
+    "prep_time": 1,
+    "cook_time": 0,
+    "total_time": 1,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Quick Meals", "Travel-Friendly", "Vegetarian", "Fish Free", "Shellfish Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Protein bar","quantity":"1 (10–20g protein)","notes":"Choose quality brand"},
+      {"item":"Apple or banana","quantity":"1","notes":"Simple carbs"}
+    ],
+    "instructions": [
+      "Eat immediately after practice with water or sports drink."
+    ],
+    "wrestling_specific_benefits": [
+      "Meets protein minimum while refueling with carbs",
+      "Requires no equipment, ideal for bus rides"
+    ],
+    "nutrition_highlights": {"protein":"15g","carbohydrates":"35g","calories":"260"},
+    "storage": "Follow bar package date; fruit best same day."
+  },
+  {
+    "id": "recovery-immediate-005",
+    "title": "Fig Bars + Protein Shake",
+    "description": "Classic wrestling combo delivering the 2–3:1 carb-to-protein ratio in minutes.",
+    "servings": 1,
+    "prep_time": 1,
+    "cook_time": 0,
+    "total_time": 1,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Quick Meals", "Vegetarian", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Fig bars","quantity":"2 bars","notes":"Carb source"},
+      {"item":"Whey protein shake","quantity":"1 (20–25g protein)","notes":"Mix with water or milk"}
+    ],
+    "instructions": [
+      "Drink the shake; eat fig bars immediately after finishing."
+    ],
+    "wrestling_specific_benefits": [
+      "Meets recovery macros with portable foods",
+      "Simple strategy athletes will actually follow"
+    ],
+    "nutrition_highlights": {"protein":"22g","carbohydrates":"45g","calories":"310"},
+    "storage": "Consume within the day; store shake per label."
+  },
+
+  {
+    "id": "recovery-standard-001",
+    "title": "Greek Yogurt Power Bowl",
+    "description": "Balanced 2–3:1 carb-to-protein bowl with berries, honey, and granola for 15–30 minutes post-practice.",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "High-Protein", "Kid-Friendly", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "High-Protein"],
+    "ingredients": [
+      {"item":"Greek yogurt (nonfat)","quantity":"10 oz","notes":"~30g protein"},
+      {"item":"Blueberries","quantity":"1/2 cup","notes":"Carbs + antioxidants"},
+      {"item":"Honey","quantity":"1 tbsp","notes":"Carbs"},
+      {"item":"Granola (low-fiber)","quantity":"1/4 cup","notes":"Adds carbs and crunch"}
+    ],
+    "instructions": [
+      "Layer yogurt, berries, honey, and granola; eat 15–30 minutes after practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Hits 2–3:1 carb-to-protein ratio",
+      "Simple and enjoyable so athletes repeat it nightly"
+    ],
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"50g","calories":"380"},
+    "storage": "Keep refrigerated; consume within 3–4 days."
+  },
+  {
+    "id": "recovery-standard-002",
+    "title": "PB&J Recovery Sandwich + Milk",
+    "description": "Classic sandwich paired with milk to meet recovery macro targets in a practical, affordable way.",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Budget-Friendly", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Whole grain bread","quantity":"2 slices","notes":"Carb + fiber"},
+      {"item":"Peanut butter","quantity":"1 tbsp","notes":"Protein + fat"},
+      {"item":"Jam","quantity":"1 tbsp","notes":"Carbs"},
+      {"item":"Low-fat milk","quantity":"8–12 oz","notes":"Protein + fluid"}
+    ],
+    "instructions": [
+      "Assemble PB&J; drink milk alongside 15–30 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Affordable ingredients enable daily compliance",
+      "Balances refuel, repair, and rehydrate in one sitting"
+    ],
+    "nutrition_highlights": {"protein":"20g","carbohydrates":"50g","calories":"420"},
+    "storage": "Best same day; if prepped, refrigerate and eat within 24 hours."
+  },
+  {
+    "id": "recovery-standard-003",
+    "title": "Turkey Sandwich Recovery Combo",
+    "description": "Lean turkey sandwich with fruit and water hits all 3 R's in a practical post-practice package.",
+    "servings": 1,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Post-Practice Recovery", "High-Protein", "Travel-Friendly", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "High-Protein"],
+    "ingredients": [
+      {"item":"Whole grain bread","quantity":"2 slices","notes":"Carb"},
+      {"item":"Deli turkey","quantity":"3–4 oz","notes":"Protein"},
+      {"item":"Mustard","quantity":"1 tsp","notes":"Optional"},
+      {"item":"Apple or banana","quantity":"1","notes":"Carbs + fluid"},
+      {"item":"Water or sports drink","quantity":"12–16 oz","notes":"Hydration"}
+    ],
+    "instructions": [
+      "Assemble sandwich; eat with fruit and fluids 15–30 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein meets repair needs without being too heavy",
+      "Carbs and fluids restore energy and hydration quickly"
+    ],
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"55g","calories":"430"},
+    "storage": "Best same day; store turkey sandwich refrigerated and eat within 24 hours."
+  },
+  {
+    "id": "recovery-standard-004",
+    "title": "Cottage Cheese Recovery Bowl",
+    "description": "High-protein cottage cheese base with simple carb add-ins for balanced recovery.",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "High-Protein", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "High-Protein"],
+    "ingredients": [
+      {"item":"Cottage cheese (1%)","quantity":"1 cup","notes":"~25g protein"},
+      {"item":"Pita chips or crackers","quantity":"1 small serving","notes":"Carb source"},
+      {"item":"Cucumber-tomato mix","quantity":"1/2 cup","notes":"Optional freshness"}
+    ],
+    "instructions": [
+      "Spoon cottage cheese into bowl; serve with chips and vegetables."
+    ],
+    "wrestling_specific_benefits": [
+      "Easy high-protein option for athletes not ready for heavy meals",
+      "Carb add-ins let families tailor to appetite"
+    ],
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"30g","calories":"300"},
+    "storage": "Keep refrigerated; consume within 3–4 days."
+  },
+  {
+    "id": "recovery-standard-005",
+    "title": "Hummus & Pretzels + Milk",
+    "description": "Plant-forward recovery pairing adding protein and carbs with a hydration component.",
+    "servings": 1,
+    "prep_time": 2,
+    "cook_time": 0,
+    "total_time": 2,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Post-Practice Recovery", "Plant-Based", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery"],
+    "ingredients": [
+      {"item":"Hummus cup","quantity":"1 (2–3 oz)","notes":"Protein + carbs"},
+      {"item":"Pretzels","quantity":"1 small bag","notes":"Carbs + sodium"},
+      {"item":"Low-fat milk","quantity":"8–12 oz","notes":"Protein + hydration"}
+    ],
+    "instructions": [
+      "Dip pretzels in hummus; drink milk alongside 15–30 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Combines carbs, protein, and fluids per 3 R's",
+      "Portable for immediate post-practice intake"
+    ],
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","calories":"360"},
+    "storage": "Keep refrigerated; consume dairy within 3–4 days."
+  },
+
+  {
+    "id": "recovery-substantial-001",
+    "title": "Blueberry Chicken Wrap",
+    "description": "Flavorful recovery wrap pairing lean protein with moderate carbs and hydration-friendly produce.",
+    "servings": 1,
+    "prep_time": 15,
+    "cook_time": 10,
+    "total_time": 25,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Post-Practice Recovery", "High-Protein", "Travel-Friendly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "High-Protein"],
+    "ingredients": [
+      {"item":"Large tortilla","quantity":"1","notes":"Whole grain preferred"},
+      {"item":"Cooked chicken","quantity":"3–4 oz","notes":"Sliced"},
+      {"item":"Blueberries","quantity":"1/4 cup","notes":"Carbs + antioxidants"},
+      {"item":"Mixed greens","quantity":"1/2 cup","notes":"Light amount"},
+      {"item":"Greek yogurt","quantity":"2 tbsp","notes":"Light dressing"},
+      {"item":"Lemon juice","quantity":"1 tsp","notes":"Acidity"},
+      {"item":"Salt","quantity":"Pinch","notes":"To taste"}
+    ],
+    "instructions": [
+      "Mix yogurt, lemon, salt; spread on tortilla.",
+      "Layer chicken, greens, blueberries; roll tightly.",
+      "Eat 30–60 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein + carbs fit the recovery ratio while staying light",
+      "Antioxidants support recovery from training stress"
+    ],
+    "nutrition_highlights": {"protein":"26g","carbohydrates":"40g","calories":"380"},
+    "storage": "Best same day; if prepped, refrigerate and consume within 24 hours."
+  },
+  {
+    "id": "recovery-substantial-002",
+    "title": "Chicken Pasta Recovery Bowl",
+    "description": "Classic carb + protein combination for complete 30–60 minute recovery meals.",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Post-Practice Recovery", "High-Protein", "Comfort Food", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "High-Protein"],
+    "ingredients": [
+      {"item":"Pasta","quantity":"8 oz (dry)","notes":"Cooked"},
+      {"item":"Chicken breast","quantity":"8 oz, cooked and sliced","notes":"Protein"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Finish"},
+      {"item":"Parmesan","quantity":"2 tbsp, grated","notes":"Flavor"},
+      {"item":"Broccoli florets","quantity":"1 cup","notes":"Lightly cooked"},
+      {"item":"Salt","quantity":"To taste","notes":""}
+    ],
+    "instructions": [
+      "Cook pasta; toss with oil, Parmesan, broccoli, and chicken.",
+      "Season and serve 30–60 minutes after practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Carbs refuel glycogen while protein repairs muscle",
+      "Simple flavors improve compliance after fatigue"
+    ],
+    "nutrition_highlights": {"protein":"32g","carbohydrates":"75g","calories":"560"},
+    "storage": "Keeps 3–5 days refrigerated or 1–2 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "recovery-substantial-003",
+    "title": "Avocado Toast + Egg + Fruit",
+    "description": "Modern recovery plate combining quality carbs, protein, and healthy fats with a fruit side.",
+    "servings": 1,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Vegetarian", "Dairy Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Whole grain bread","quantity":"1–2 slices","notes":"Toasted"},
+      {"item":"Avocado","quantity":"1/2, mashed","notes":"Spread"},
+      {"item":"Eggs","quantity":"1–2, cooked to preference","notes":"Protein"},
+      {"item":"Fruit (berries or banana)","quantity":"1 serving","notes":"Carb + hydration"}
+    ],
+    "instructions": [
+      "Top toast with avocado and eggs; serve with fruit."
+    ],
+    "wrestling_specific_benefits": [
+      "Meets 3 R's with simple, accessible ingredients",
+      "Flexible portioning for different hunger levels"
+    ],
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","calories":"420"},
+    "storage": "Best same day."
+  },
+  {
+    "id": "recovery-substantial-004",
+    "title": "Turkey Sandwich Recovery Plate",
+    "description": "Lean turkey sandwich with sides designed for 30–60 minute recovery timing.",
+    "servings": 1,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Post-Practice Recovery", "Travel-Friendly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery"],
+    "ingredients": [
+      {"item":"Whole grain bread","quantity":"2 slices","notes":"Carb"},
+      {"item":"Deli turkey","quantity":"3–4 oz","notes":"Protein"},
+      {"item":"Light mayo or mustard","quantity":"1 tsp","notes":"Optional"},
+      {"item":"Grapes or orange","quantity":"1 serving","notes":"Hydrating carbs"},
+      {"item":"Water or milk","quantity":"12 oz","notes":"Hydration + optional protein"}
+    ],
+    "instructions": [
+      "Assemble sandwich; eat with fruit and fluid 30–60 minutes post-practice."
+    ],
+    "wrestling_specific_benefits": [
+      "Balanced macro profile for effective recovery",
+      "Portable and practical for families on the go"
+    ],
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"60g","calories":"480"},
+    "storage": "Best same day; if prepped, refrigerate and consume within 24 hours."
+  },
+  {
+    "id": "recovery-substantial-005",
+    "title": "Blueberry Recovery Bites",
+    "description": "Make-ahead oat and blueberry bites for a gentle, portable recovery option.",
+    "servings": 6,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:2 = 4)",
+    "tags": ["Post-Practice Recovery", "Hydration Support", "Make-Ahead", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Post-Practice Recovery", "Hydration Support"],
+    "ingredients": [
+      {"item":"Quick oats","quantity":"1 cup","notes":"Soften with liquid"},
+      {"item":"Greek yogurt","quantity":"1/2 cup","notes":"Protein binder"},
+      {"item":"Honey","quantity":"2 tbsp","notes":"Sweeten"},
+      {"item":"Blueberries","quantity":"1/2 cup","notes":"Mix gently"}
+    ],
+    "instructions": [
+      "Stir ingredients; portion into 6 bites; chill briefly before eating."
+    ],
+    "wrestling_specific_benefits": [
+      "Gentle on stomachs while meeting recovery macro goals",
+      "Portable and kid-friendly for consistent use"
+    ],
+    "nutrition_highlights": {"protein":"10g","carbohydrates":"22g","calories":"160"},
+    "storage": "Keep refrigerated; consume within 3–4 days."
+  }
+]
+
+

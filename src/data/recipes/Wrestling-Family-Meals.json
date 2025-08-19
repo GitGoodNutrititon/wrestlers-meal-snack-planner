@@ -1,0 +1,491 @@
+[
+  {
+    "id": "family-001",
+    "title": "High-Protein Marry Me Chicken (From-Scratch)",
+    "description": "Restaurant-quality pan-seared chicken in a creamy sun-dried tomato sauce with proper technique and protein-forward balance.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 25,
+    "total_time": 40,
+    "difficulty": "Hard (Time:2 + Skills:3 + Ingredients:3 = 8)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Comfort Food", "Make-Ahead", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 1/2 lb","notes":"Pounded even thickness"},
+      {"item":"Salt","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"Seasoning"},
+      {"item":"Olive oil","quantity":"1 1/2 tbsp","notes":"Searing"},
+      {"item":"Garlic","quantity":"4 cloves, minced","notes":"Aromatics"},
+      {"item":"Sun-dried tomatoes","quantity":"1/2 cup, chopped","notes":"Flavor"},
+      {"item":"Chicken broth","quantity":"1 cup","notes":"Deglaze"},
+      {"item":"Half-and-half","quantity":"1 cup","notes":"Sauce base"},
+      {"item":"Parmesan","quantity":"1/2 cup, grated","notes":"Finish"},
+      {"item":"Fresh basil","quantity":"2 tbsp, sliced","notes":"Garnish"}
+    ],
+    "instructions": [
+      "Season chicken; sear in hot oil until golden; remove and rest.",
+      "Sauté (cook quickly in a small amount of oil over medium heat) garlic and sun-dried tomatoes; deglaze with broth, reduce briefly.",
+      "Add half-and-half; simmer to coat-spoon consistency; whisk in Parmesan.",
+      "Return chicken to sauce; simmer gently to finish; garnish with basil."
+    ],
+    "wrestling_specific_benefits": [
+      "25–35g protein per serving meets athlete needs",
+      "Technique-forward cooking teaches valuable kitchen skills",
+      "Family-favorite appeal encourages repeat meals"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"610"}
+  },
+  {
+    "id": "family-002",
+    "title": "Cottage Cheese Baked Ziti",
+    "description": "Comfort food classic upgraded with cottage cheese for higher protein and better texture, using proper parcooking and sauce reduction.",
+    "servings": 8,
+    "prep_time": 20,
+    "cook_time": 35,
+    "total_time": 55,
+    "difficulty": "Hard (Time:3 + Skills:2 + Ingredients:3 = 8)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Comfort Food", "Meal Prep Friendly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Ziti","quantity":"one 16-oz box","notes":"Parcook 6 minutes; using full box prevents waste"},
+      {"item":"Lean ground beef or turkey","quantity":"1 lb","notes":"Brown well"},
+      {"item":"Marinara sauce","quantity":"4 cups","notes":"Reduce 10 minutes"},
+      {"item":"Cottage cheese","quantity":"2 cups","notes":"Protein upgrade"},
+      {"item":"Mozzarella","quantity":"2 cups, shredded","notes":"Top and middle"},
+      {"item":"Parmesan","quantity":"1/2 cup, grated","notes":"Finish"}
+    ],
+    "instructions": [
+      "Reduce marinara until slightly thick; brown meat; parcook pasta.",
+      "Layer pasta, reduced sauce, meat, cottage cheese, and mozzarella; repeat; top with Parmesan.",
+      "Bake at 375°F for 25–30 minutes until bubbly and lightly golden; rest 10 minutes before slicing."
+    ],
+    "wrestling_specific_benefits": [
+      "Higher protein than standard ziti supports athletes",
+      "Make-ahead casserole improves with time and serves a crowd",
+      "Teaches reduction and layering techniques"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"620"}
+  },
+  {
+    "id": "family-003",
+    "title": "Ground Turkey Stuffed Bell Peppers",
+    "description": "Technique-driven stuffed peppers with proper sweating of aromatics and moisture control for non-watery stuffing.",
+    "servings": 6,
+    "prep_time": 25,
+    "cook_time": 35,
+    "total_time": 60,
+    "difficulty": "Hard (Time:3 + Skills:3 + Ingredients:2 = 8)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Make-Ahead", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Bell peppers","quantity":"6 large, halved and seeded","notes":""},
+      {"item":"Lean ground turkey","quantity":"1 1/2 lb","notes":""},
+      {"item":"Onion","quantity":"1 medium, diced","notes":""},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":""},
+      {"item":"Cooked rice","quantity":"2 cups","notes":""},
+      {"item":"Tomato sauce","quantity":"1 cup (reduced)","notes":"Reduce 10 minutes to thicken"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":""},
+      {"item":"Salt","quantity":"1 tsp","notes":""},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":""}
+    ],
+    "instructions": [
+      "Sweat onion and garlic in oil; add turkey and brown; stir in reduced tomato and rice.",
+      "Par-bake pepper halves 10 minutes at 375°F; fill with stuffing.",
+      "Bake 20–25 minutes until peppers are tender-crisp."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein per serving with satisfying texture",
+      "Family-friendly flavors encourage repeat requests",
+      "Teaches moisture control for better casseroles"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"520"}
+  },
+  {
+    "id": "family-004",
+    "title": "Pizza Frittata (Breakfast-for-Dinner)",
+    "description": "Egg-based frittata finished under the broiler for proper texture contrast; pizza flavors win over families.",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Comfort Food", "Vegetarian", "Gluten Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Eggs","quantity":"10 large","notes":"Whisked"},
+      {"item":"Mozzarella","quantity":"1 1/2 cups, shredded","notes":""},
+      {"item":"Turkey pepperoni","quantity":"1/2 cup, chopped","notes":""},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":""},
+      {"item":"Salt","quantity":"3/4 tsp","notes":""},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":""}
+    ],
+      "instructions": [
+      "Heat oven-safe skillet (12-inch if available); add oil and eggs; sprinkle cheese and pepperoni.",
+      "Cook gently until almost set; broil 1–2 minutes to finish top; rest 5 minutes before slicing."
+      ],
+    "wrestling_specific_benefits": [
+      "High-protein family dish with familiar flavors",
+      "Broiler finish teaches professional texture control"
+    ],
+    "nutrition_highlights": {"protein":"28g","calories":"490"}
+  },
+  {
+    "id": "family-005",
+    "title": "White Bean & Smoked Sausage Skillet",
+    "description": "Hearty skillet that emphasizes proper searing and sauce development for comfort-food satisfaction.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Wrestling Family Meals", "Comfort Food", "One-Pan", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals"],
+    "ingredients": [
+      {"item":"Smoked sausage","quantity":"1 lb, sliced","notes":"Sear well"},
+      {"item":"White beans","quantity":"two 15-oz cans, drained and rinsed","notes":"Standard can size; reduces waste"},
+      {"item":"Onion","quantity":"1 medium, sliced","notes":""},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":""},
+      {"item":"Chicken broth","quantity":"1 cup","notes":"Reduce for sauce"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":""},
+      {"item":"Salt","quantity":"1/2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sear sausage to develop fond (browned bits on pan); remove.",
+      "Sauté onion and garlic; deglaze with broth and reduce until slightly thickened.",
+      "Return sausage and beans; simmer briefly and serve."
+    ],
+    "wrestling_specific_benefits": [
+      "Substantial protein and carbs for active athletes",
+      "Teaches deglazing and reduction fundamentals"
+    ],
+    "nutrition_highlights": {"protein":"26g","calories":"560"}
+  },
+  {
+    "id": "family-006",
+    "title": "Lemon-Brown Butter Salmon Dinner",
+    "description": "Pan-seared salmon finished with brown butter and lemon, served with roasted vegetables and farro.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Hard (Time:2 + Skills:3 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Egg Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Salmon fillets","quantity":"1 1/2 lb","notes":"Pat dry"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Searing"},
+      {"item":"Butter","quantity":"2 tbsp","notes":"Brown to nutty"},
+      {"item":"Lemon","quantity":"1, juiced","notes":"Finish"},
+      {"item":"Farro (cooked)","quantity":"3 cups","notes":"Side"},
+      {"item":"Roasted vegetables","quantity":"4 cups","notes":"Side"},
+      {"item":"Salt","quantity":"3/4 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sear salmon in oil; finish with browned butter and lemon.",
+      "Serve with farro and roasted vegetables."
+    ],
+    "wrestling_specific_benefits": [
+      "High-quality protein and fats support recovery",
+      "Teaches searing and beurre noisette fundamentals"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"580"}
+  },
+  {
+    "id": "family-007",
+    "title": "Indian Butter Chickpeas",
+    "description": "Aromatic tomato gravy with chickpeas for a protein-forward vegetarian family dinner emphasizing sauce reduction.",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "Medium (Time:3 + Skills:2 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "Plant-Based", "Comfort Food", "Vegetarian", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "Plant-Based"],
+    "ingredients": [
+      {"item":"Onion","quantity":"1 large, diced","notes":"Sweat well"},
+      {"item":"Garlic","quantity":"4 cloves, minced","notes":""},
+      {"item":"Ginger","quantity":"1 tbsp, grated","notes":""},
+      {"item":"Garam masala","quantity":"2 tsp","notes":"Spice"},
+      {"item":"Tomato puree","quantity":"3 cups","notes":"Reduce 10–15 minutes"},
+      {"item":"Chickpeas (drained)","quantity":"3 cans (15 oz)","notes":"Rinse"},
+      {"item":"Butter","quantity":"2 tbsp","notes":"Finish"},
+      {"item":"Plain yogurt","quantity":"1/2 cup","notes":"Creaminess"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sweat onion with a pinch of salt; add garlic, ginger; toast spices briefly.",
+      "Add tomato puree; reduce to coat spoon; stir in chickpeas; simmer.",
+      "Finish with butter and yogurt; adjust salt."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein and carbohydrates in a family-loved sauce",
+      "Technique focus builds cooking confidence"
+    ],
+    "nutrition_highlights": {"protein":"22g","calories":"520"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "family-008",
+    "title": "White Chicken Chili (From-Scratch)",
+    "description": "Comforting chili using proper sautéing and seasoning balance; high-protein and meal-prep friendly.",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "Medium (Time:3 + Skills:2 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Comfort Food", "Meal Prep Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 1/2 lb, diced","notes":""},
+      {"item":"Onion","quantity":"1 large, diced","notes":""},
+      {"item":"Garlic","quantity":"4 cloves, minced","notes":""},
+      {"item":"Cannellini beans","quantity":"three 15-oz cans, drained and rinsed","notes":"Standard can size; reduces waste"},
+      {"item":"Chicken broth","quantity":"4 cups","notes":""},
+      {"item":"Green chiles","quantity":"1 can (4 oz)","notes":""},
+      {"item":"Cumin","quantity":"2 tsp","notes":""},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":""},
+      {"item":"Salt","quantity":"1 1/2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sauté (cook quickly in a small amount of oil over medium heat) onion in oil; add garlic; add chicken and cook through (165°F).",
+      "Stir in beans, broth, chiles, spices; simmer 20 minutes; adjust seasoning."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward chili with crowd-pleasing flavor",
+      "Batch yields leftovers for busy weeks"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "family-009",
+    "title": "Sweet & Sour Tofu (Technique-Focused)",
+    "description": "Proper tofu prep with cornstarch and pan-frying yields crisp edges; balanced sweet-sour sauce from scratch.",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "Hard (Time:2 + Skills:3 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "Plant-Based", "High-Protein", "Vegetarian", "Vegan", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "Plant-Based"],
+    "ingredients": [
+      {"item":"Firm tofu","quantity":"16 oz","notes":"Pressed and cubed"},
+      {"item":"Cornstarch","quantity":"2 tbsp","notes":"Coating"},
+      {"item":"Neutral oil","quantity":"2 tbsp","notes":"Pan-fry"},
+      {"item":"Rice vinegar","quantity":"3 tbsp","notes":"Sauce"},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":"Sauce"},
+      {"item":"Brown sugar","quantity":"2 tbsp","notes":"Sauce"},
+      {"item":"Garlic","quantity":"2 cloves, minced","notes":""},
+      {"item":"Bell pepper","quantity":"1, sliced","notes":""},
+      {"item":"Pineapple chunks","quantity":"1 cup","notes":"Optional"}
+    ],
+    "instructions": [
+      "Coat tofu with cornstarch; pan-fry until crisp; remove.",
+      "Sauté pepper and garlic; add vinegar, soy, sugar; simmer; return tofu and pineapple to glaze."
+    ],
+    "wrestling_specific_benefits": [
+      "Higher-protein vegetarian option for variety",
+      "Teaches moisture management for crisp tofu"
+    ],
+    "nutrition_highlights": {"protein":"24g","calories":"480"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "family-010",
+    "title": "Chicken Stir Fry (Family Technique)",
+    "description": "Restaurant-style stir fry emphasizing proper searing, timing, and sauce balance for a family favorite.",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 lb, sliced","notes":"Pat dry"},
+      {"item":"Broccoli, carrots, peppers","quantity":"4 cups total","notes":"Cut uniformly"},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":"Sauce"},
+      {"item":"Oyster sauce","quantity":"1 tbsp","notes":"Depth"},
+      {"item":"Cornstarch","quantity":"2 tsp","notes":"Slurry"},
+      {"item":"Neutral oil","quantity":"2 tbsp","notes":"High heat"}
+    ],
+    "instructions": [
+      "Sear chicken in batches; remove.",
+      "Stir-fry vegetables; add sauces and cornstarch slurry; return chicken to glaze."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein, balanced dinner with family appeal",
+      "Builds core cooking skills for long-term independence"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "storage": "Keeps 3–4 days refrigerated or 1–2 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "family-011",
+    "title": "Sesame Tofu & Broccoli",
+    "description": "Kid-friendly Asian flavors with proper tofu crisping and sesame finish; pairs well with steamed rice.",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Wrestling Family Meals", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free"],
+    "primary_tags": ["Wrestling Family Meals", "Plant-Based"],
+    "ingredients": [
+      {"item":"Firm tofu","quantity":"16 oz","notes":"Pressed and cubed"},
+      {"item":"Cornstarch","quantity":"2 tbsp","notes":"Coating"},
+      {"item":"Neutral oil","quantity":"2 tbsp","notes":"Pan-fry"},
+      {"item":"Broccoli florets","quantity":"4 cups","notes":"Blanch or steam-crisp"},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":"Sauce"},
+      {"item":"Sesame oil","quantity":"1 tsp","notes":"Finish"},
+      {"item":"Sesame seeds","quantity":"1 tsp","notes":"Garnish"}
+    ],
+    "instructions": [
+      "Crisp tofu in oil; remove. Steam-crisp broccoli.",
+      "Toss with soy and sesame; return tofu; finish with sesame seeds."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-rich vegetarian meal suitable for athletes",
+      "Technique teaches texture control"
+    ],
+    "nutrition_highlights": {"protein":"22g","calories":"460"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "family-012",
+    "title": "Sesame Salmon & Farro Bowls",
+    "description": "Balanced salmon and farro bowls with herbs and vegetables; teaches grain cookery and fish searing.",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "Hard (Time:2 + Skills:3 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Dairy Free", "Egg Free", "Shellfish Free", "Nut Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Farro","quantity":"1 1/2 cups (dry)","notes":"Cook per package"},
+      {"item":"Salmon fillets","quantity":"1 1/2 lb","notes":"Sear"},
+      {"item":"Cucumber","quantity":"1 cup, diced","notes":""},
+      {"item":"Carrots","quantity":"1 cup, shredded","notes":""},
+      {"item":"Soy sauce","quantity":"3 tbsp","notes":""},
+      {"item":"Sesame oil","quantity":"1 tsp","notes":"Finish"}
+    ],
+    "instructions": [
+      "Cook farro; sear salmon until flaky and opaque; assemble bowls with vegetables; drizzle soy and sesame oil."
+    ],
+    "wrestling_specific_benefits": [
+      "High-quality protein and complex carbs for athletes",
+      "Teaches staple techniques for weekly rotation"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"560"}
+  }
+  ,
+  {
+    "id": "family-013",
+    "title": "Beef & Rice Stuffed Poblanos",
+    "description": "From-scratch stuffed poblano peppers with properly reduced tomato base and tender rice for a high-protein family dinner.",
+    "servings": 6,
+    "prep_time": 25,
+    "cook_time": 35,
+    "total_time": 60,
+    "difficulty": "Hard (Time:3 + Skills:3 + Ingredients:2 = 8)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Comfort Food", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Poblano peppers","quantity":"6 large","notes":"Halved and seeded"},
+      {"item":"Lean ground beef","quantity":"1 1/2 lb","notes":"Brown well"},
+      {"item":"Onion","quantity":"1 medium, diced","notes":"Sweat for sweetness"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Cooked rice","quantity":"2 cups","notes":"Tender but not mushy"},
+      {"item":"Tomato puree","quantity":"1 1/2 cups","notes":"Reduce 10 minutes"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Cooking"},
+      {"item":"Cumin","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sweat onion in oil; add garlic; brown beef thoroughly; stir in cumin, reduced tomato, and rice; season.",
+      "Par-bake pepper halves 10 minutes at 375°F; fill with stuffing and return to oven 20–25 minutes.",
+      "Rest 5 minutes before serving for cleaner slices."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein per serving with satisfying textures",
+      "Technique-driven results build family cooking skills",
+      "Leftovers hold up well for busy training days"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"560"}
+  },
+  {
+    "id": "family-014",
+    "title": "Miso-Glazed Salmon & Brown Rice",
+    "description": "Properly seared salmon finished with a miso glaze, served with cucumber salad and brown rice for a balanced family meal.",
+    "servings": 4,
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Hard (Time:2 + Skills:3 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "Dairy Free", "Gluten Free", "Egg Free", "Shellfish Free", "Nut Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Salmon fillets","quantity":"1 1/2 lb","notes":"Pat dry"},
+      {"item":"Brown rice (cooked)","quantity":"3 cups","notes":"Side"},
+      {"item":"White miso paste","quantity":"2 tbsp","notes":"Glaze"},
+      {"item":"Soy sauce","quantity":"1 1/2 tbsp","notes":"Glaze"},
+      {"item":"Honey","quantity":"1 tbsp","notes":"Glaze balance"},
+      {"item":"Rice vinegar","quantity":"2 tsp","notes":"Glaze acidity"},
+      {"item":"Cucumber","quantity":"1 cup, thinly sliced","notes":"Quick salad"},
+      {"item":"Neutral oil","quantity":"1 tbsp","notes":"Searing"},
+      {"item":"Sesame seeds","quantity":"1 tsp","notes":"Garnish"}
+    ],
+    "instructions": [
+      "Whisk miso, soy, honey, vinegar for glaze.",
+      "Sear salmon 2 minutes per side; brush with glaze; briefly cook to set.",
+      "Serve over brown rice with cucumber on the side; sprinkle sesame seeds."
+    ],
+    "wrestling_specific_benefits": [
+      "High-quality protein supports recovery and growth",
+      "Balanced carbs from brown rice fuel training",
+      "Teaches glazing and searing techniques"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "storage": "Keeps 3–4 days refrigerated; up to 2 months frozen. Reheat to 145°F for fish or 165°F for sides."
+  },
+  {
+    "id": "family-015",
+    "title": "Herb-Roasted Chicken Thighs with Potatoes & Green Beans",
+    "description": "Classic sheet-pan family dinner focused on proper seasoning and roasting technique for superior flavor and texture.",
+    "servings": 6,
+    "prep_time": 20,
+    "cook_time": 35,
+    "total_time": 55,
+    "difficulty": "Medium (Time:3 + Skills:2 + Ingredients:2 = 7)",
+    "tags": ["Wrestling Family Meals", "High-Protein", "One-Pan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Wrestling Family Meals", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken thighs","quantity":"2 lb","notes":"Bone-in, skin-on for flavor"},
+      {"item":"Baby potatoes","quantity":"2 lb, halved","notes":""},
+      {"item":"Green beans","quantity":"1 lb","notes":"Trimmed"},
+      {"item":"Olive oil","quantity":"3 tbsp","notes":"Coat"},
+      {"item":"Garlic powder","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Dried thyme","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Salt","quantity":"1 1/2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Toss potatoes and green beans with half the oil and seasonings; spread on sheet pan.",
+      "Rub thighs with remaining oil and seasonings; place over vegetables.",
+      "Roast at 425°F for 35–40 minutes until thighs reach 175°F and skin is crisp."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward meal with family appeal and leftovers",
+      "Teaches roasting fundamentals and seasoning balance"
+    ],
+    "nutrition_highlights": {"protein":"33g","calories":"590"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  }
+]
+
+

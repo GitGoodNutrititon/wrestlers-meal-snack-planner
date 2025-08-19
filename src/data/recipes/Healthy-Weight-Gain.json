@@ -1,0 +1,515 @@
+[
+  {
+    "id": "weight-gain-001",
+    "title": "Wrestling Bulking Chili",
+    "description": "High-protein, high-calorie chili built for hard gainers. Flavor-forward and meal-prep ready to support consistent muscle gain.",
+    "servings": 7,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "difficulty": "Hard (Time:3 + Skills:2 + Ingredients:3 = 8)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Budget-Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Extra-lean ground beef","quantity":"3 lb","notes":"Brown well for flavor"},
+      {"item":"Kidney beans","quantity":"three 15-oz cans, drained and rinsed","notes":"Standard can size; reduces waste"},
+      {"item":"Crushed tomatoes","quantity":"one 28-oz can","notes":"Use entire can as sauce base"},
+      {"item":"Frozen corn","quantity":"one 16-oz bag","notes":"Adds sweetness and texture; use entire bag"},
+      {"item":"Yellow onion","quantity":"1 large, diced","notes":"Aromatics"},
+      {"item":"Garlic","quantity":"4 cloves, minced","notes":"Aromatics"},
+      {"item":"Chili powder","quantity":"2 tbsp","notes":"Adjust to taste"},
+      {"item":"Ground cumin","quantity":"2 tsp","notes":"Warm spice"},
+      {"item":"Paprika","quantity":"1 tsp","notes":"Smoky note"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"For browning"},
+      {"item":"Salt","quantity":"1–2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Heat oil over medium heat in a large Dutch oven; sauté (cook quickly in a small amount of oil over medium heat) onion until translucent, 3–4 minutes. Add garlic and cook 30 seconds until fragrant.",
+      "Add ground beef; brown deeply (cook until well browned with no pink), 6–8 minutes, breaking into small pieces.",
+      "Stir in spices, then add the entire can of crushed tomatoes, the drained beans, and the entire bag of corn; bring to a simmer (gentle bubbling).",
+      "Simmer 30–40 minutes, stirring occasionally, until chili thickens enough to coat the back of a spoon; season to taste.",
+      "Portion into containers for the week; reheat to 165°F before serving."
+    ],
+    "wrestling_specific_benefits": [
+      "Delivers 30–40g protein per serving to support muscle repair and growth",
+      "Meal-prep format helps hard gainers hit daily calorie targets",
+      "Highly enjoyable flavors encourage larger portions"
+    ],
+    "nutrition_highlights": {"protein":"36g","calories":"600"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F internal temperature."
+  },
+  {
+    "id": "weight-gain-002",
+    "title": "High-Protein Power Breakfast Bowl",
+    "description": "Chicken, eggs, and quinoa with vegetables for a savory, protein-loaded breakfast that supports daily muscle building.",
+    "servings": 2,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Dairy Free", "Gluten Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Cooked quinoa","quantity":"1 1/2 cups","notes":"Warm"},
+      {"item":"Chicken breast (cooked)","quantity":"6 oz, diced","notes":"Leftover or prepped"},
+      {"item":"Eggs","quantity":"3 large","notes":"Scrambled"},
+      {"item":"Bell pepper","quantity":"1/2 cup, diced","notes":"Any color"},
+      {"item":"Spinach","quantity":"1 cup","notes":"Lightly wilted"},
+      {"item":"Olive oil","quantity":"2 tsp","notes":"For sautéing"},
+      {"item":"Salt","quantity":"1/2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sauté (cook quickly in a small amount of oil over medium heat) pepper in oil 2–3 minutes; add spinach to wilt.",
+      "Scramble eggs in pan until just set and glossy; season.",
+      "Warm quinoa and chicken; assemble bowls with all components.",
+      "Adjust seasoning and serve hot."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ morning protein kickstarts muscle protein synthesis",
+      "Savory flavors increase appetite in low-hunger hard gainers",
+      "Balanced carbs support later training sessions"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"520"},
+    "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F or enjoy cold."
+  },
+  {
+    "id": "weight-gain-003",
+    "title": "Muscle-Building Smoothie",
+    "description": "Calorie-dense but digestible smoothie designed for post-practice recovery and off-season gains.",
+    "servings": 1,
+    "prep_time": 5,
+    "cook_time": 0,
+    "total_time": 5,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Quick Meals", "Vegetarian", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Whey protein powder","quantity":"1 scoop (25–30g)","notes":"Third-party tested"},
+      {"item":"High-protein milk (like Fairlife)","quantity":"12 oz","notes":"High-protein base"},
+      {"item":"Banana","quantity":"1 medium","notes":"Frozen preferred"},
+      {"item":"Peanut butter","quantity":"1 tbsp","notes":"Flavor and calories"},
+      {"item":"Oats (quick)","quantity":"1/4 cup","notes":"Blend finely"}
+    ],
+    "instructions": [
+      "Add all ingredients to a blender.",
+      "Blend until smooth and drink immediately."
+    ],
+    "wrestling_specific_benefits": [
+      "Liquid calories help hard gainers increase intake without fullness",
+      "Protein supports muscle repair post-practice",
+      "Carbs replenish glycogen for next session"
+    ],
+    "nutrition_highlights": {"protein":"35g","calories":"520"},
+    "storage": "Best consumed immediately; if prepared ahead, keep refrigerated and consume within 24 hours. Shake before drinking."
+  },
+  {
+    "id": "weight-gain-004",
+    "title": "Cashew Chicken Stir-Fry",
+    "description": "Asian-inspired stir-fry with ample chicken and cashews for protein and calories without heavy sauces.",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "One-Pan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 lb, diced","notes":"Pat dry for searing"},
+      {"item":"Cashews","quantity":"1/3 cup","notes":"Unsalted"},
+      {"item":"Soy sauce (low sodium)","quantity":"2 tbsp","notes":"Flavor base"},
+      {"item":"Hoisin sauce","quantity":"1 tbsp","notes":"Sweetness"},
+      {"item":"Sesame oil","quantity":"1 tsp","notes":"Aromatics"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Broccoli florets","quantity":"2 cups","notes":"Frozen ok"},
+      {"item":"Cooked rice","quantity":"3 cups","notes":"For serving"},
+      {"item":"Neutral oil","quantity":"1 tbsp","notes":"For stir-fry"}
+    ],
+    "instructions": [
+      "Heat neutral oil over medium-high heat; sear (cook undisturbed in hot oil to brown) chicken until browned and cooked through (165°F), 5–7 minutes.",
+      "Add garlic, broccoli, soy, hoisin, and sesame oil; toss to coat and warm 2–3 minutes.",
+      "Stir in cashews; serve over rice."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein per serving supports muscle gain",
+      "Palatable flavors encourage consistent large portions",
+      "Simple technique fits busy training schedules"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"610"},
+    "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-005",
+    "title": "Spicy Chicken Couscous Meal Prep",
+    "description": "Macro-balanced chicken thighs with fast-cooking couscous for affordable, flavorful mass-gain meals.",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Budget-Friendly", "Dairy Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken thighs","quantity":"1 1/2 lb","notes":"Boneless, skinless"},
+      {"item":"Couscous","quantity":"2 cups (dry)","notes":"Quick-cooking"},
+      {"item":"Chicken broth","quantity":"2 cups","notes":"For couscous"},
+      {"item":"Smoked paprika","quantity":"2 tsp","notes":"Seasoning"},
+      {"item":"Garlic powder","quantity":"1 tsp","notes":"Seasoning"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"For searing"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/2 tsp","notes":"To taste"},
+      {"item":"Parsley","quantity":"2 tbsp, chopped","notes":"Optional garnish"}
+    ],
+    "instructions": [
+      "Season chicken with paprika, garlic, salt, pepper; sear and cook through.",
+      "Bring broth to a boil; add couscous, cover off heat 5 minutes, fluff.",
+      "Portion couscous and chicken; garnish with parsley."
+    ],
+    "wrestling_specific_benefits": [
+      "Thighs add flavor to improve appetite without excessive fat",
+      "High protein and easy carbs support training volume",
+      "Batch prep ensures consistent calorie intake"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "storage": "Keeps 3–4 days refrigerated or 1–2 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-006",
+    "title": "Seared Tuna with Sweet Potato",
+    "description": "Mediterranean-style high-protein plate with simple flavors that encourage larger portions.",
+    "servings": 2,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Medium (Time:1 + Skills:2 + Ingredients:2 = 5)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Comfort Food", "Dairy Free", "Gluten Free", "Egg Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Tuna steaks","quantity":"12 oz total","notes":"Pat dry"},
+      {"item":"Sweet potato","quantity":"1 large, cubed","notes":"Roasted or microwaved"},
+      {"item":"Olive oil","quantity":"2 tsp","notes":"For cooking"},
+      {"item":"Lemon","quantity":"1/2, juiced","notes":"Finish"},
+      {"item":"Salt","quantity":"3/4 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Roast or microwave sweet potato until tender (pierces easily with a fork).",
+      "Heat oil over medium-high heat; sear tuna 1–2 minutes per side until golden at edges; season and finish with lemon.",
+      "Serve immediately with sweet potato."
+    ],
+    "wrestling_specific_benefits": [
+      "High-quality protein supports lean mass",
+      "Easy-to-like flavors promote adequate intake",
+      "Simple prep keeps consistency high in off-season"
+    ],
+    "nutrition_highlights": {"protein":"38g","calories":"520"},
+    "storage": "Best fresh; cooked tuna is safe 3–4 days refrigerated. Reheat to 145°F if reheating."
+  },
+  {
+    "id": "weight-gain-007",
+    "title": "Creamy High-Protein Pasta",
+    "description": "Comforting pasta with a protein-forward creamy sauce that avoids heavy fats to keep appetite up.",
+    "servings": 6,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Comfort Food", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Pasta (whole wheat or regular)","quantity":"one 16-oz box (uncooked)","notes":"Using full box prevents waste"},
+      {"item":"Chicken breast","quantity":"1 lb, diced","notes":"Sear separately"},
+      {"item":"Greek yogurt","quantity":"1 1/3 cups","notes":"Protein-rich sauce base"},
+      {"item":"Chicken broth","quantity":"2/3 cup","notes":"Thins sauce"},
+      {"item":"Garlic","quantity":"4 cloves, minced","notes":"Aromatics"},
+      {"item":"Parmesan","quantity":"1/3 cup, grated","notes":"Flavor"},
+      {"item":"Olive oil","quantity":"4 tsp","notes":"For cooking"},
+      {"item":"Salt","quantity":"1 1/3 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"2/3 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Cook pasta to al dente (tender with a slight bite) in salted boiling water; reserve 3/4–1 cup pasta water.",
+      "Sear chicken over medium-high heat until cooked through (165°F); remove.",
+      "Sauté (cook quickly in a small amount of oil over medium heat) garlic 30 seconds; whisk in yogurt, broth, and Parmesan; adjust thickness with pasta water until sauce coats the back of a spoon.",
+      "Toss pasta and chicken in sauce; season to taste."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein per serving with enjoyable, familiar flavors",
+      "Moderate fat keeps appetite intact for total daily intake",
+      "Carbs support training volume and recovery"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"580"},
+    "storage": "Keeps 3–5 days refrigerated or 1–2 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-008",
+    "title": "One-Pot Lentil Dahl (Protein-Forward)",
+    "description": "Plant-forward dahl with elevated protein and approachable flavors for wrestlers and families.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 30,
+    "total_time": 40,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "Plant-Based", "One-Pan", "Budget-Friendly", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "Plant-Based"],
+    "ingredients": [
+      {"item":"Red lentils","quantity":"1 1/2 cups","notes":"Rinsed"},
+      {"item":"Onion","quantity":"1 medium, diced","notes":"Aromatics"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Ginger","quantity":"1 tbsp, minced","notes":"Aromatics"},
+      {"item":"Curry powder","quantity":"1 tbsp","notes":"Spice"},
+      {"item":"Coconut milk (light)","quantity":"1 can (13.5 oz)","notes":"Creaminess"},
+      {"item":"Vegetable broth","quantity":"3 cups","notes":"Simmering liquid"},
+      {"item":"Spinach","quantity":"2 cups","notes":"Stir in at end"},
+      {"item":"Neutral oil","quantity":"1 tbsp","notes":"For sautéing"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sauté (cook quickly in a small amount of oil over medium heat) onion, garlic, and ginger in oil until fragrant, 2–3 minutes.",
+      "Stir in curry powder; add lentils, broth, and coconut milk; simmer (gentle bubbling) 20–25 minutes until lentils are tender.",
+      "Fold in spinach to wilt; season and serve over rice if desired."
+    ],
+    "wrestling_specific_benefits": [
+      "Plant-based protein adds variety for mass gain without relying on heavy fats",
+      "Comforting texture promotes appetite and repeat portions",
+      "Batch-friendly for consistent intake"
+    ],
+    "nutrition_highlights": {"protein":"25g","calories":"520"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-009",
+    "title": "Buffalo Chicken Protein Salad",
+    "description": "High-protein chopped salad with buffalo-seasoned chicken for craveable flavor and mass-building macros.",
+    "servings": 3,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"12 oz, cooked and chopped","notes":"Buffalo seasoned"},
+      {"item":"Greek yogurt","quantity":"1/2 cup","notes":"Dressing base"},
+      {"item":"Hot sauce","quantity":"2 tbsp","notes":"Buffalo flavor"},
+      {"item":"Romaine","quantity":"4 cups, chopped","notes":"Base"},
+      {"item":"Celery","quantity":"1/2 cup, sliced","notes":"Crunch"},
+      {"item":"Carrots","quantity":"1/2 cup, shredded","notes":"Color"},
+      {"item":"Blue cheese (optional)","quantity":"2 tbsp","notes":"Flavor"}
+    ],
+    "instructions": [
+      "Whisk yogurt and hot sauce to make a light buffalo dressing (smooth and pourable).",
+      "Toss romaine, celery, and carrots with dressing until lightly coated.",
+      "Top with chopped chicken and optional blue cheese."
+    ],
+    "wrestling_specific_benefits": [
+      "Protein-forward salad boosts intake without heaviness",
+      "Craveable flavor encourages larger portions",
+      "Easy to prep ahead for busy training weeks"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-010",
+    "title": "Curried Chicken & Lentils",
+    "description": "Protein-dense chicken and lentils in a mild curry sauce for budget-friendly, mass-building meals.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "Hard (Time:3 + Skills:2 + Ingredients:2 = 7)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Budget-Friendly", "Meal Prep Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Chicken breast","quantity":"1 lb, diced","notes":"Sear first"},
+      {"item":"Dry lentils","quantity":"1 cup","notes":"Rinsed"},
+      {"item":"Onion","quantity":"1 medium, diced","notes":"Aromatics"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Curry powder","quantity":"1 tbsp","notes":"Spice"},
+      {"item":"Tomato puree","quantity":"one 15-oz can","notes":"Use entire can as sauce base"},
+      {"item":"Chicken broth","quantity":"2 cups","notes":"Simmering liquid"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Cooking"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Sear chicken in oil and remove.",
+      "Sauté onion and garlic; add curry powder and toast 30 seconds.",
+      "Add lentils, broth, tomato; simmer 20–25 minutes; return chicken to warm.",
+      "Adjust seasoning and serve over rice if desired."
+    ],
+    "wrestling_specific_benefits": [
+      "Chicken + lentils provide complete and sustained protein",
+      "Budget-friendly without sacrificing quality fuel",
+      "Meal prep format supports consistent intake"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-011",
+    "title": "Breakfast Power Skillet",
+    "description": "Eggs, potatoes, and turkey for a savory, high-protein skillet that fits breakfast-for-dinner strategies.",
+    "servings": 3,
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "One-Pan", "Dairy Free", "Gluten Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Eggs","quantity":"6 large","notes":"Whisked"},
+      {"item":"Turkey sausage (lean)","quantity":"8 oz","notes":"Sliced"},
+      {"item":"Potatoes (diced small)","quantity":"2 cups","notes":"Precook or microwave for speed"},
+      {"item":"Bell pepper","quantity":"1/2 cup, diced","notes":"Any color"},
+      {"item":"Olive oil","quantity":"1 tbsp","notes":"Cooking"},
+      {"item":"Salt","quantity":"3/4 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Brown turkey and potatoes in oil until crisp-tender.",
+      "Add pepper; cook 2 minutes.",
+      "Pour in eggs; scramble to desired doneness; season."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein supports daily muscle building",
+      "Comfort-food profile encourages large portions",
+      "One-pan method reduces effort for busy families"
+    ],
+    "nutrition_highlights": {"protein":"31g","calories":"560"},
+    "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
+  },
+  {
+    "id": "weight-gain-012",
+    "title": "Korean-Inspired Beef Protein Bowl",
+    "description": "Savory-sweet ground beef bowls over rice with vegetables; craveable flavor to drive intake.",
+    "servings": 4,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Medium (Time:1 + Skills:2 + Ingredients:2 = 5)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Lean ground beef","quantity":"1 lb","notes":"Brown well"},
+      {"item":"Soy sauce (low sodium)","quantity":"3 tbsp","notes":"Sauce"},
+      {"item":"Brown sugar","quantity":"1 tbsp","notes":"Balance"},
+      {"item":"Garlic","quantity":"3 cloves, minced","notes":"Aromatics"},
+      {"item":"Ginger","quantity":"1 tsp, grated","notes":"Aromatics"},
+      {"item":"Carrots (shredded)","quantity":"1 cup","notes":"Vegetable"},
+      {"item":"Cooked rice","quantity":"4 cups","notes":"For serving"},
+      {"item":"Sesame seeds","quantity":"1 tsp","notes":"Optional finish"}
+    ],
+    "instructions": [
+      "Brown beef; add garlic and ginger; stir in soy and sugar.",
+      "Fold in carrots to soften.",
+      "Serve over rice; garnish with sesame seeds."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein, high-enjoyment bowl promotes consistent eating",
+      "Carb base supports training volume",
+      "Easy to batch for weeknight reliability"
+    ],
+    "nutrition_highlights": {"protein":"30g","calories":"580"},
+    "storage": "Keeps 3–4 days refrigerated."
+  },
+  {
+    "id": "weight-gain-013",
+    "title": "Greek Yogurt Chicken Pasta Salad",
+    "description": "Protein-packed pasta salad using Greek yogurt dressing to boost protein without excessive fat.",
+    "servings": 4,
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Medium (Time:2 + Skills:2 + Ingredients:2 = 6)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Meal Prep Friendly", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Pasta (short)","quantity":"one 16-oz box (uncooked)","notes":"Cooked and cooled; using full box prevents waste"},
+      {"item":"Chicken breast","quantity":"1 lb, cooked and diced","notes":"Protein"},
+      {"item":"Greek yogurt","quantity":"1 cup","notes":"Dressing base"},
+      {"item":"Lemon juice","quantity":"4 tsp","notes":"Acidity"},
+      {"item":"Olive oil","quantity":"1 1/2 tbsp","notes":"Mouthfeel"},
+      {"item":"Celery","quantity":"2/3 cup, diced","notes":"Crunch"},
+      {"item":"Parsley","quantity":"3 tbsp, chopped","notes":"Freshness"},
+      {"item":"Salt","quantity":"1 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/3 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Whisk yogurt, lemon, oil, salt, pepper.",
+      "Combine pasta, chicken, celery, parsley; toss with dressing.",
+      "Chill or serve immediately."
+    ],
+    "wrestling_specific_benefits": [
+      "Cold, savory meal increases appetite in low-hunger periods",
+      "High protein supports mass gain without heavy fats",
+      "Perfect for lunchboxes during off-season training"
+    ],
+    "nutrition_highlights": {"protein":"32g","calories":"560"},
+    "storage": "Best within 3–4 days refrigerated."
+  },
+  {
+    "id": "weight-gain-014",
+    "title": "Tuna Rice Bowl (Budget Muscle)",
+    "description": "Ultra-budget high-protein bowl with canned tuna, rice, and simple seasonings for reliable muscle-building meals.",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Budget-Friendly", "Dairy Free", "Gluten Free", "Egg Free", "Shellfish Free", "Nut Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Canned tuna (drained)","quantity":"2 cans (5 oz each)","notes":"In water"},
+      {"item":"Cooked rice","quantity":"2 cups","notes":"Warm"},
+      {"item":"Soy sauce (low sodium)","quantity":"1 tbsp","notes":"Flavor"},
+      {"item":"Mayonnaise (optional)","quantity":"1 tbsp","notes":"Mouthfeel"},
+      {"item":"Green onion","quantity":"2 tbsp, sliced","notes":"Optional"}
+    ],
+    "instructions": [
+      "Combine tuna with soy and optional mayo.",
+      "Serve over warm rice; top with green onion."
+    ],
+    "wrestling_specific_benefits": [
+      "High-protein, affordable option ensures consistency",
+      "Quick prep fits busy schedules",
+      "Carb base supports recovery and training"
+    ],
+    "nutrition_highlights": {"protein":"34g","calories":"540"},
+    "storage": "Best within 3–4 days refrigerated."
+  },
+  {
+    "id": "weight-gain-015",
+    "title": "Eggs & Cottage Cheese Scramble",
+    "description": "Protein-boosted scramble using cottage cheese for extra protein and creamy texture without heavy fats.",
+    "servings": 2,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Healthy Weight Gain", "High-Protein", "Quick Meals", "Vegetarian", "Gluten Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Healthy Weight Gain", "High-Protein"],
+    "ingredients": [
+      {"item":"Eggs","quantity":"4 large","notes":"Whisked"},
+      {"item":"Cottage cheese (1%)","quantity":"1/2 cup","notes":"Stir into eggs"},
+      {"item":"Olive oil","quantity":"2 tsp","notes":"Cooking"},
+      {"item":"Salt","quantity":"1/2 tsp","notes":"To taste"},
+      {"item":"Black pepper","quantity":"1/4 tsp","notes":"To taste"}
+    ],
+    "instructions": [
+      "Heat oil; add eggs; when halfway set, fold in cottage cheese.",
+      "Cook to soft curds; season and serve."
+    ],
+    "wrestling_specific_benefits": [
+      "30g+ protein at breakfast supports mass gain",
+      "Creamy texture improves palatability for low appetite",
+      "Fast prep increases compliance"
+    ],
+    "nutrition_highlights": {"protein":"31g","calories":"430"},
+    "storage": "Best within 3–4 days refrigerated."
+  }
+]
+
+
+
