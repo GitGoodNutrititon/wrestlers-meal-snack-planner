@@ -12,14 +12,32 @@ export function checkMembershipAccess(): boolean {
   }
 
   const referrer = document.referrer;
+  const currentDomain = window.location.hostname;
   const allowedDomains = (process.env.ALLOWED_DOMAINS || '').split(',');
   
   // Check if referrer contains any allowed domain
   const isFromMembershipSite = allowedDomains.some(domain => 
-    referrer.toLowerCase().includes(domain.toLowerCase())
+    referrer.toLowerCase().includes(domain.toLowerCase().trim())
   );
+  
+  // Special handling for Squarespace domains (including editor/preview)
+  const isSquarespaceDomain = referrer.toLowerCase().includes('squarespace.com') || 
+                             currentDomain.toLowerCase().includes('squarespace.com');
+  
+  // Allow access from Squarespace domains or approved domains
+  const hasValidAccess = isFromMembershipSite || isSquarespaceDomain;
 
-  if (!isFromMembershipSite) {
+  if (!hasValidAccess) {
+    // Debug info (only in development)
+    if (process.env.NODE_ENV === 'development') {
+      console.log('Access denied. Debug info:', {
+        referrer,
+        currentDomain,
+        allowedDomains,
+        isFromMembershipSite,
+        isSquarespaceDomain
+      });
+    }
     showAccessDeniedMessage();
     return false;
   }

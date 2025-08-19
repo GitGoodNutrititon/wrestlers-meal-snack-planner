@@ -17,7 +17,7 @@ const nextConfig = {
   env: {
     SITE_NAME: 'The Wrestler\'s Meal and Snack Planner',
     SITE_DESCRIPTION: 'Instant recipe solutions for wrestling families',
-    ALLOWED_DOMAINS: 'bullardnutrition.com,www.bullardnutrition.com,bullardnutrition.squarespace.com'
+    ALLOWED_DOMAINS: 'bullardnutrition.com,www.bullardnutrition.com,bullardnutrition.squarespace.com,squarespace.com'
   }
 }
 
