@@ -1,6 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
 import Head from 'next/head';
-import Image from 'next/image';
 import { Recipe, SearchFilters, TagCategory } from '@/types';
 import { RecipeSearchEngine, createSearchFilters } from '@/lib/search';
 import { useIframeHeightUpdate } from '@/lib/iframe';
@@ -182,16 +181,6 @@ export default function Home() {
         <header className="bg-white shadow-sm border-b-2 border-brand-forest">
           <div className="mobile-container lg:desktop-container py-6">
             <div className="text-center">
-              <div className="h-12 mx-auto mb-4 relative">
-                <Image 
-                  src="/bullard-nutrition-logo.png" 
-                  alt="Bullard Nutrition" 
-                  width={200}
-                  height={48}
-                  className="h-12 w-auto mx-auto"
-                  priority
-                />
-              </div>
               <h1 className="text-2xl lg:text-3xl font-bold text-brand-charcoal">
                 The Wrestler&apos;s Meal and Snack Planner
               </h1>
