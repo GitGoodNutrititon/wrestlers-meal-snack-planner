@@ -211,13 +211,54 @@
     overflow: hidden;
   }
 
+  /* Tooltip styles */
+  .tooltip {
+    @apply absolute z-50 px-3 py-2 text-sm font-medium text-white rounded-lg shadow-lg pointer-events-none;
+    background-color: #1f2937; /* gray-800 for good contrast */
+    border: 1px solid #374151; /* gray-700 for subtle border */
+  }
+
+  .tooltip.tooltip-visible {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .tooltip.tooltip-hidden {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  /* Tooltip arrow */
+  .tooltip-arrow {
+    @apply absolute w-2 h-2 transform rotate-45;
+    background-color: #1f2937;
+    border: inherit;
+  }
+
+  /* Tooltip animations */
+  .tooltip-fade-in {
+    @apply transition-all duration-200 ease-in-out;
+  }
+
+  /* Brand-specific tooltip for Bullard Nutrition */
+  .tooltip-brand {
+    @apply bg-brand-charcoal text-white border border-gray-600;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .tooltip-brand .tooltip-arrow {
+    @apply bg-brand-charcoal;
+  }
+
   /* Responsive utilities */
   .mobile-container {
     @apply px-4 mx-auto max-w-full;
   }
 
   .desktop-container {
-    @apply px-8 mx-auto max-w-7xl;
+    @apply px-8 mx-auto;
+    width: 100%;
+    max-width: 100%;
   }
 }
 

@@ -28,9 +28,9 @@ module.exports = {
         },
         bg: {
           white: '#FFFFFF',
-          cream: '#FFFBF5',
-          'light-blue': '#EFF6FF',
-          'light-green': '#ECFDF5',
+          cream: '#FFFFFF',
+          'light-blue': '#FFFFFF',
+          'light-green': '#FFFFFF',
           'light-red': '#FEF2F2',
         },
         text: {
