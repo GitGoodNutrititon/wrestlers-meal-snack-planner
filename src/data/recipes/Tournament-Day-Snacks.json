@@ -188,31 +188,179 @@
     "storage": "Best same day."
   },
   {
-    "id": "tournament-pre-match-008",
-    "title": "Homemade Honey Electrolyte Sipper",
-    "description": "Simple DIY pre-match fuel: honey diluted with water and a pinch of salt for quick carbs and electrolytes.",
-    "servings": 1,
-    "prep_time": 2,
-    "cook_time": 0,
-    "total_time": 2,
+    "id": "recovery-drink-001",
+    "title": "Blueberry Green Tea Recovery Sipper",
+    "description": "Make-ahead recovery drink combining frozen blueberries, green tea, and electrolytes. The frozen fruit naturally releases nutrients and flavor as it thaws, creating a delicious antioxidant-rich drink that's perfect for post-practice recovery.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
     "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
-    "tags": ["Tournament Day Snacks", "Hydration Support", "Quick Meals", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "tags": ["Tournament Day Snacks", "Meal Prep Friendly", "Travel-Friendly", "Hydration Support", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
     "primary_tags": ["Tournament Day Snacks", "Hydration Support"],
     "ingredients": [
-      { "item": "Water", "quantity": "8 oz", "notes": "Room temperature" },
-      { "item": "Honey", "quantity": "1 tbsp", "notes": "Stir to dissolve" },
-      { "item": "Salt", "quantity": "A small pinch", "notes": "Optional for sodium" }
+      { "item": "Water", "quantity": "2 liters", "notes": "Boiling hot" },
+      { "item": "Green tea bags", "quantity": "3–4", "notes": "Regular strength" },
+      { "item": "Frozen blueberries", "quantity": "1–2 cups", "notes": "Frozen fruit releases nutrients as it thaws" },
+      { "item": "Bottled lemon juice", "quantity": "2–3 tbsp", "notes": "Brings out anthocyanin colors and adds tartness" },
+      { "item": "Sugar or honey", "quantity": "2–4 tbsp", "notes": "Adjust to taste" },
+      { "item": "Electrolyte mix", "quantity": "1 packet or to taste", "notes": "Choose one with potassium and sodium" }
     ],
-      "instructions": [
-      "Stir honey and salt into water until dissolved.",
-      "Sip 30 minutes before match."
-      ],
+    "instructions": [
+      "Boil 2 liters of water and steep 3–4 green tea bags for 5 minutes.",
+      "Remove tea bags and pour hot tea over frozen blueberries in a large pitcher with filter spout.",
+      "Add lemon juice, sweetener, and electrolyte mix. Stir well.",
+      "Let cool to room temperature, then refrigerate.",
+      "Tastes even better the next day as flavors develop. Strain through filter spout when serving."
+    ],
     "wrestling_specific_benefits": [
-      "Provides quick glucose without solid food heaviness",
-      "Sodium supports hydration during competition"
+      "Anthocyanins from blueberries support cognitive focus during competition",
+      "Natural electrolytes plus added mix support hydration and recovery",
+      "Antioxidants help reduce inflammation from intense training",
+      "Make-ahead convenience perfect for busy wrestling families"
     ],
-    "nutrition_highlights": { "protein": "0g", "carbohydrates": "17g", "calories": "70" },
-    "storage": "Best same day."
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "calories": "70" },
+    "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
+  },
+  {
+    "id": "recovery-drink-002",
+    "title": "Strawberry Hibiscus Recovery Drink",
+    "description": "Refreshing make-ahead recovery drink with frozen strawberries and tart hibiscus tea. High in vitamin C and natural antioxidants for post-practice recovery.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Tournament Day Snacks", "Meal Prep Friendly", "Travel-Friendly", "Hydration Support", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Tournament Day Snacks", "Hydration Support"],
+    "ingredients": [
+      { "item": "Water", "quantity": "2 liters", "notes": "Boiling hot" },
+      { "item": "Hibiscus tea bags", "quantity": "3–4", "notes": "Naturally tart and caffeine-free" },
+      { "item": "Frozen strawberries", "quantity": "1–2 cups", "notes": "Frozen fruit releases nutrients as it thaws" },
+      { "item": "Bottled lemon juice", "quantity": "2–3 tbsp", "notes": "Enhances tartness" },
+      { "item": "Agave or honey", "quantity": "2–4 tbsp", "notes": "Adjust to taste" },
+      { "item": "Electrolyte mix", "quantity": "1 packet or to taste", "notes": "Choose one with potassium and sodium" }
+    ],
+    "instructions": [
+      "Boil 2 liters of water and steep 3–4 hibiscus tea bags for 5 minutes.",
+      "Remove tea bags and pour hot tea over frozen strawberries in a large pitcher with filter spout.",
+      "Add lemon juice, sweetener, and electrolyte mix. Stir well.",
+      "Let cool to room temperature, then refrigerate.",
+      "Tastes even better the next day as flavors develop. Strain through filter spout when serving."
+    ],
+    "wrestling_specific_benefits": [
+      "High vitamin C content supports immune system during training stress",
+      "Natural electrolytes plus added mix support hydration and recovery",
+      "Caffeine-free option perfect for evening practices",
+      "Tart flavor helps combat post-practice nausea"
+    ],
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "calories": "65" },
+    "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
+  },
+  {
+    "id": "recovery-drink-003",
+    "title": "Peach White Tea Recovery Blend",
+    "description": "Gentle make-ahead recovery drink with frozen peaches and delicate white tea. Light caffeine content and natural sweetness make it perfect for post-practice recovery.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Tournament Day Snacks", "Meal Prep Friendly", "Travel-Friendly", "Hydration Support", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Tournament Day Snacks", "Hydration Support"],
+    "ingredients": [
+      { "item": "Water", "quantity": "2 liters", "notes": "Boiling hot" },
+      { "item": "White tea bags", "quantity": "3–4", "notes": "Delicate flavor, light caffeine" },
+      { "item": "Frozen peaches", "quantity": "1–2 cups", "notes": "Frozen fruit releases nutrients as it thaws" },
+      { "item": "Bottled lemon juice", "quantity": "2–3 tbsp", "notes": "Balances sweetness" },
+      { "item": "Honey", "quantity": "2–4 tbsp", "notes": "Adjust to taste" },
+      { "item": "Electrolyte mix", "quantity": "1 packet or to taste", "notes": "Choose one with potassium and sodium" }
+    ],
+    "instructions": [
+      "Boil 2 liters of water and steep 3–4 white tea bags for 5 minutes.",
+      "Remove tea bags and pour hot tea over frozen peaches in a large pitcher with filter spout.",
+      "Add lemon juice, sweetener, and electrolyte mix. Stir well.",
+      "Let cool to room temperature, then refrigerate.",
+      "Tastes even better the next day as flavors develop. Strain through filter spout when serving."
+    ],
+    "wrestling_specific_benefits": [
+      "Light caffeine provides gentle energy boost without jitters",
+      "Natural electrolytes plus added mix support hydration and recovery",
+      "Sweet, smooth flavor appeals to younger wrestlers",
+      "Antioxidants help reduce inflammation from training"
+    ],
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "16g", "calories": "75" },
+    "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
+  },
+  {
+    "id": "recovery-drink-004",
+    "title": "Mixed Berry Rooibos Recovery Blend",
+    "description": "Caffeine-free make-ahead recovery drink with frozen mixed berries and naturally sweet rooibos tea. Perfect for evening practices or caffeine-sensitive wrestlers.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Tournament Day Snacks", "Meal Prep Friendly", "Travel-Friendly", "Hydration Support", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Tournament Day Snacks", "Hydration Support"],
+    "ingredients": [
+      { "item": "Water", "quantity": "2 liters", "notes": "Boiling hot" },
+      { "item": "Rooibos tea bags", "quantity": "3–4", "notes": "Naturally sweet, caffeine-free" },
+      { "item": "Frozen mixed berries", "quantity": "1–2 cups", "notes": "Choose mix with blueberries for anthocyanins" },
+      { "item": "Bottled lemon juice", "quantity": "2–3 tbsp", "notes": "Brings out berry colors and adds tartness" },
+      { "item": "Agave or sugar", "quantity": "2–4 tbsp", "notes": "Adjust to taste" },
+      { "item": "Electrolyte mix", "quantity": "1 packet or to taste", "notes": "Choose one with potassium and sodium" }
+    ],
+    "instructions": [
+      "Boil 2 liters of water and steep 3–4 rooibos tea bags for 5 minutes.",
+      "Remove tea bags and pour hot tea over frozen mixed berries in a large pitcher with filter spout.",
+      "Add lemon juice, sweetener, and electrolyte mix. Stir well.",
+      "Let cool to room temperature, then refrigerate.",
+      "Tastes even better the next day as flavors develop. Strain through filter spout when serving."
+    ],
+    "wrestling_specific_benefits": [
+      "Anthocyanins from dark berries support cognitive focus during competition",
+      "Caffeine-free formula won't interfere with sleep after evening practices",
+      "Natural electrolytes plus added mix support hydration and recovery",
+      "Antioxidant blend helps reduce inflammation from intense training"
+    ],
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "calories": "70" },
+    "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
+  },
+  {
+    "id": "recovery-drink-005",
+    "title": "Blackberry Oolong Recovery Elixir",
+    "description": "Sophisticated make-ahead recovery drink combining frozen blackberries with complex oolong tea. Rich in anthocyanins for cognitive support and moderate caffeine for focus.",
+    "servings": 8,
+    "prep_time": 10,
+    "cook_time": 5,
+    "total_time": 15,
+    "difficulty": "Easy (Time:1 + Skills:1 + Ingredients:1 = 3)",
+    "tags": ["Tournament Day Snacks", "Meal Prep Friendly", "Travel-Friendly", "Hydration Support", "Plant-Based", "Vegetarian", "Vegan", "Dairy Free", "Gluten Free", "Egg Free", "Fish Free", "Shellfish Free", "Nut Free", "Soy Free", "Sesame Free"],
+    "primary_tags": ["Tournament Day Snacks", "Hydration Support"],
+    "ingredients": [
+      { "item": "Water", "quantity": "2 liters", "notes": "Boiling hot" },
+      { "item": "Oolong tea bags", "quantity": "3–4", "notes": "Complex flavor, moderate caffeine" },
+      { "item": "Frozen blackberries", "quantity": "1–2 cups", "notes": "High in anthocyanins for cognitive benefits" },
+      { "item": "Bottled lemon juice", "quantity": "2–3 tbsp", "notes": "Brings out anthocyanin colors and balances flavors" },
+      { "item": "Honey", "quantity": "2–4 tbsp", "notes": "Adjust to taste" },
+      { "item": "Electrolyte mix", "quantity": "1 packet or to taste", "notes": "Choose one with potassium and sodium" }
+    ],
+    "instructions": [
+      "Boil 2 liters of water and steep 3–4 oolong tea bags for 5 minutes.",
+      "Remove tea bags and pour hot tea over frozen blackberries in a large pitcher with filter spout.",
+      "Add lemon juice, sweetener, and electrolyte mix. Stir well.",
+      "Let cool to room temperature, then refrigerate.",
+      "Tastes even better the next day as flavors develop. Strain through filter spout when serving."
+    ],
+    "wrestling_specific_benefits": [
+      "High anthocyanin content supports cognitive focus and memory during competition",
+      "Moderate caffeine provides sustained energy without crash",
+      "Natural electrolytes plus added mix support hydration and recovery",
+      "Complex antioxidant profile helps reduce inflammation from intense training"
+    ],
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "calories": "65" },
+    "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
 
   {
