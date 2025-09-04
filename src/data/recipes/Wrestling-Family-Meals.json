@@ -1,7 +1,7 @@
 [
   {
     "id": "family-001",
-    "title": "High-Protein Marry Me Chicken (From-Scratch)",
+    "title": "High-Protein Marry Me Chicken",
     "description": "Restaurant-quality pan-seared chicken in a creamy sun-dried tomato sauce with proper technique and protein-forward balance.",
     "servings": 4,
     "prep_time": 15,
@@ -33,7 +33,7 @@
       "Technique-forward cooking teaches valuable kitchen skills",
       "Family-favorite appeal encourages repeat meals"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"610"}
+    "nutrition_highlights": {"protein":"32g","carbohydrates":"8g","fat":"42g","calories":"610"}
   },
   {
     "id": "family-002",
@@ -64,7 +64,7 @@
       "Make-ahead casserole improves with time and serves a crowd",
       "Teaches reduction and layering techniques"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"620"}
+    "nutrition_highlights": {"protein":"35g","carbohydrates":"47g","fat":"13g","calories":"448"}
   },
   {
     "id": "family-003",
@@ -98,11 +98,11 @@
       "Family-friendly flavors encourage repeat requests",
       "Teaches moisture control for better casseroles"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"520"}
+    "nutrition_highlights": {"protein":"28g","carbohydrates":"26g","fat":"8g","calories":"276"}
   },
   {
     "id": "family-004",
-    "title": "Pizza Frittata (Breakfast-for-Dinner)",
+    "title": "Pizza Frittata",
     "description": "Egg-based frittata finished under the broiler for proper texture contrast; pizza flavors win over families.",
     "servings": 6,
     "prep_time": 15,
@@ -127,7 +127,7 @@
       "High-protein family dish with familiar flavors",
       "Broiler finish teaches professional texture control"
     ],
-    "nutrition_highlights": {"protein":"28g","calories":"490"}
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"1g","fat":"18g","calories":"237"}
   },
   {
     "id": "family-005",
@@ -159,7 +159,7 @@
       "Substantial protein and carbs for active athletes",
       "Teaches deglazing and reduction fundamentals"
     ],
-    "nutrition_highlights": {"protein":"26g","calories":"560"}
+    "nutrition_highlights": {"protein":"31g","carbohydrates":"35g","fat":"25g","calories":"458"}
   },
   {
     "id": "family-006",
@@ -190,7 +190,7 @@
       "High-quality protein and fats support recovery",
       "Teaches searing and beurre noisette fundamentals"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"580"}
+    "nutrition_highlights": {"protein":"37g","carbohydrates":"44g","fat":"26g","calories":"537"}
   },
   {
     "id": "family-007",
@@ -223,7 +223,7 @@
       "Protein and carbohydrates in a family-loved sauce",
       "Technique focus builds cooking confidence"
     ],
-    "nutrition_highlights": {"protein":"22g","calories":"520"},
+    "nutrition_highlights": {"protein":"19g","carbohydrates":"45g","fat":"6g","calories":"292"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -257,7 +257,7 @@
       "Protein-forward chili with crowd-pleasing flavor",
       "Batch yields leftovers for busy weeks"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "nutrition_highlights": {"protein":"37g","carbohydrates":"36g","fat":"6g","calories":"329"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -290,7 +290,7 @@
       "Higher-protein vegetarian option for variety",
       "Teaches moisture management for crisp tofu"
     ],
-    "nutrition_highlights": {"protein":"24g","calories":"480"},
+    "nutrition_highlights": {"protein":"22g","carbohydrates":"19g","fat":"15g","calories":"292"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -320,7 +320,7 @@
       "High-protein, balanced dinner with family appeal",
       "Builds core cooking skills for long-term independence"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "nutrition_highlights": {"protein":"26g","carbohydrates":"8g","fat":"10g","calories":"218"},
     "storage": "Keeps 3–4 days refrigerated or 1–2 months frozen. Reheat to 165°F."
   },
   {
@@ -351,7 +351,7 @@
       "Protein-rich vegetarian meal suitable for athletes",
       "Technique teaches texture control"
     ],
-    "nutrition_highlights": {"protein":"22g","calories":"460"},
+    "nutrition_highlights": {"protein":"24g","carbohydrates":"13g","fat":"17g","calories":"288"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -380,7 +380,7 @@
       "High-quality protein and complex carbs for athletes",
       "Teaches staple techniques for weekly rotation"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"560"}
+    "nutrition_highlights": {"protein":"37g","carbohydrates":"50g","fat":"18g","calories":"483"}
   }
   ,
   {
@@ -416,7 +416,7 @@
       "Technique-driven results build family cooking skills",
       "Leftovers hold up well for busy training days"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"560"}
+    "nutrition_highlights": {"protein":"29g","carbohydrates":"29g","fat":"8g","calories":"290"}
   },
   {
     "id": "family-014",
@@ -450,7 +450,7 @@
       "Balanced carbs from brown rice fuel training",
       "Teaches glazing and searing techniques"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "nutrition_highlights": {"protein":"36g","carbohydrates":"41g","fat":"21g","calories":"479"},
     "storage": "Keeps 3–4 days refrigerated; up to 2 months frozen. Reheat to 145°F for fish or 165°F for sides."
   },
   {
@@ -483,7 +483,7 @@
       "Protein-forward meal with family appeal and leftovers",
       "Teaches roasting fundamentals and seasoning balance"
     ],
-    "nutrition_highlights": {"protein":"33g","calories":"590"},
+    "nutrition_highlights": {"protein":"37g","carbohydrates":"34g","fat":"24g","calories":"429"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   }
 ]

@@ -22,7 +22,7 @@
       "Delivers 2–3:1 carb-to-protein ratio for optimal recovery",
       "Fluid and electrolytes aid rehydration after heavy sweating"
     ],
-    "nutrition_highlights": {"protein":"16g","carbohydrates":"48g","calories":"280"},
+    "nutrition_highlights": {"protein":"16g","carbohydrates":"48g","fat":"5g","calories":"281"},
     "storage": "Best consumed immediately; if prepared ahead, keep refrigerated and consume within 3–4 days."
   },
   {
@@ -47,7 +47,7 @@
       "Meets protein minimum while providing quick-digesting carbs",
       "Portable for locker-room or car ride recovery"
     ],
-    "nutrition_highlights": {"protein":"20g","carbohydrates":"40g","calories":"300"},
+    "nutrition_highlights": {"protein":"21g","carbohydrates":"32g","fat":"3g","calories":"225"},
     "storage": "Shelf-stable shakes: follow label; consume fruit same day."
   },
   {
@@ -72,7 +72,7 @@
       "18g protein meets recovery minimums",
       "Honey adds quick carbs to replenish glycogen"
     ],
-    "nutrition_highlights": {"protein":"18g","carbohydrates":"25g","calories":"230"},
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"25g","fat":"0g","calories":"172"},
     "storage": "Keep refrigerated; consume within 3–4 days."
   },
   {
@@ -97,7 +97,7 @@
       "Meets protein minimum while refueling with carbs",
       "Requires no equipment, ideal for bus rides"
     ],
-    "nutrition_highlights": {"protein":"15g","carbohydrates":"35g","calories":"260"},
+    "nutrition_highlights": {"protein":"15g","carbohydrates":"35g","fat":"6g","calories":"254"},
     "storage": "Follow bar package date; fruit best same day."
   },
   {
@@ -122,7 +122,7 @@
       "Meets recovery macros with portable foods",
       "Simple strategy athletes will actually follow"
     ],
-    "nutrition_highlights": {"protein":"22g","carbohydrates":"45g","calories":"310"},
+    "nutrition_highlights": {"protein":"22g","carbohydrates":"45g","fat":"1g","calories":"277"},
     "storage": "Consume within the day; store shake per label."
   },
 
@@ -150,7 +150,7 @@
       "Hits 2–3:1 carb-to-protein ratio",
       "Simple and enjoyable so athletes repeat it nightly"
     ],
-    "nutrition_highlights": {"protein":"30g","carbohydrates":"50g","calories":"380"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"50g","fat":"2g","calories":"346"},
     "storage": "Keep refrigerated; consume within 3–4 days."
   },
   {
@@ -177,7 +177,7 @@
       "Affordable ingredients enable daily compliance",
       "Balances refuel, repair, and rehydrate in one sitting"
     ],
-    "nutrition_highlights": {"protein":"20g","carbohydrates":"50g","calories":"420"},
+    "nutrition_highlights": {"protein":"20g","carbohydrates":"50g","fat":"12g","calories":"368"},
     "storage": "Best same day; if prepped, refrigerate and eat within 24 hours."
   },
   {
@@ -205,7 +205,7 @@
       "Protein meets repair needs without being too heavy",
       "Carbs and fluids restore energy and hydration quickly"
     ],
-    "nutrition_highlights": {"protein":"25g","carbohydrates":"55g","calories":"430"},
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"55g","fat":"2g","calories":"338"},
     "storage": "Best same day; store turkey sandwich refrigerated and eat within 24 hours."
   },
   {
@@ -231,7 +231,7 @@
       "Easy high-protein option for athletes not ready for heavy meals",
       "Carb add-ins let families tailor to appetite"
     ],
-    "nutrition_highlights": {"protein":"25g","carbohydrates":"30g","calories":"300"},
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"30g","fat":"2g","calories":"238"},
     "storage": "Keep refrigerated; consume within 3–4 days."
   },
   {
@@ -257,7 +257,7 @@
       "Combines carbs, protein, and fluids per 3 R's",
       "Portable for immediate post-practice intake"
     ],
-    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","calories":"360"},
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","fat":"9g","calories":"333"},
     "storage": "Keep refrigerated; consume dairy within 3–4 days."
   },
 
@@ -290,7 +290,7 @@
       "Protein + carbs fit the recovery ratio while staying light",
       "Antioxidants support recovery from training stress"
     ],
-    "nutrition_highlights": {"protein":"26g","carbohydrates":"40g","calories":"380"},
+    "nutrition_highlights": {"protein":"26g","carbohydrates":"40g","fat":"8g","calories":"328"},
     "storage": "Best same day; if prepped, refrigerate and consume within 24 hours."
   },
   {
@@ -320,7 +320,7 @@
       "Carbs refuel glycogen while protein repairs muscle",
       "Simple flavors improve compliance after fatigue"
     ],
-    "nutrition_highlights": {"protein":"32g","carbohydrates":"75g","calories":"560"},
+    "nutrition_highlights": {"protein":"32g","carbohydrates":"75g","fat":"6g","calories":"486"},
     "storage": "Keeps 3–5 days refrigerated or 1–2 months frozen. Reheat to 165°F."
   },
   {
@@ -347,7 +347,7 @@
       "Meets 3 R's with simple, accessible ingredients",
       "Flexible portioning for different hunger levels"
     ],
-    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","calories":"420"},
+    "nutrition_highlights": {"protein":"18g","carbohydrates":"45g","fat":"18g","calories":"374"},
     "storage": "Best same day."
   },
   {
@@ -375,7 +375,7 @@
       "Balanced macro profile for effective recovery",
       "Portable and practical for families on the go"
     ],
-    "nutrition_highlights": {"protein":"25g","carbohydrates":"60g","calories":"480"},
+    "nutrition_highlights": {"protein":"25g","carbohydrates":"60g","fat":"2g","calories":"358"},
     "storage": "Best same day; if prepped, refrigerate and consume within 24 hours."
   },
   {
@@ -402,7 +402,7 @@
       "Gentle on stomachs while meeting recovery macro goals",
       "Portable and kid-friendly for consistent use"
     ],
-    "nutrition_highlights": {"protein":"10g","carbohydrates":"22g","calories":"160"},
+    "nutrition_highlights": {"protein":"10g","carbohydrates":"22g","fat":"2g","calories":"146"},
     "storage": "Keep refrigerated; consume within 3–4 days."
   }
 ]

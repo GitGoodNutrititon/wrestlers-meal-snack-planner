@@ -28,7 +28,7 @@
       "High protein supports athlete needs on busy nights",
       "One pan minimizes cleanup to prevent parent burnout"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"520"}
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"58g","fat":"15g","calories":"487"}
   },
   {
     "id": "quick-002",
@@ -56,7 +56,7 @@
       "Protein-forward tacos that reheat well for leftovers",
       "Sheet pan method reduces dishes and time"
     ],
-    "nutrition_highlights": {"protein":"28g","calories":"480"},
+    "nutrition_highlights": {"protein":"28g","carbohydrates":"45g","fat":"12g","calories":"380"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -87,7 +87,7 @@
       "Balanced meal meets athlete protein needs",
       "One-pan approach minimizes cleanup time"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"48g","fat":"15g","calories":"435"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -117,7 +117,7 @@
       "Protein + complex carbs fuel training and growth",
       "Minimal dishes prevents burnout"
     ],
-    "nutrition_highlights": {"protein":"29g","calories":"520"},
+    "nutrition_highlights": {"protein":"29g","carbohydrates":"40g","fat":"20g","calories":"436"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -146,7 +146,7 @@
       "Protein target met with minimal prep",
       "Family-friendly flavors increase compliance"
     ],
-    "nutrition_highlights": {"protein":"27g","calories":"430"},
+    "nutrition_highlights": {"protein":"27g","carbohydrates":"8g","fat":"30g","calories":"406"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -174,7 +174,7 @@
       "Protein-forward dinner with zero cooking",
       "Scales easily for multiple athletes"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"520"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"70g","fat":"4g","calories":"452"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -203,7 +203,7 @@
       "Protein-rich comfort meal done fast",
       "One-pan and shortcuts reduce total time"
     ],
-    "nutrition_highlights": {"protein":"28g","calories":"470"},
+    "nutrition_highlights": {"protein":"28g","carbohydrates":"22g","fat":"25g","calories":"425"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -232,7 +232,7 @@
       "Solid protein + vegetable pairing with minimal effort",
       "Scales to two pans for team dinners"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"480"},
+    "nutrition_highlights": {"protein":"32g","carbohydrates":"10g","fat":"28g","calories":"428"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -265,7 +265,7 @@
       "High-protein comfort meal improves adherence",
       "Time-honest approach fits weeknights"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"620"},
+    "nutrition_highlights": {"protein":"32g","carbohydrates":"65g","fat":"18g","calories":"550"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -297,7 +297,7 @@
       "High-protein, reheats well for leftovers",
       "Hands-off method saves active time"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"540"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"48g","fat":"12g","calories":"420"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -326,7 +326,7 @@
       "Protein and carbs support busy training nights",
       "Leftovers simplify next-day meals"
     ],
-    "nutrition_highlights": {"protein":"31g","calories":"560"},
+    "nutrition_highlights": {"protein":"31g","carbohydrates":"50g","fat":"15g","calories":"459"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -355,7 +355,7 @@
       "High-protein, quick assembly for post-practice dinners",
       "Easy to scale for multiple athletes"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"35g","fat":"15g","calories":"375"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -383,7 +383,7 @@
       "Minimal cleanup keeps quick-meal promise",
       "Balanced protein and vegetables for athletes"
     ],
-    "nutrition_highlights": {"protein":"24g","calories":"480"},
+    "nutrition_highlights": {"protein":"24g","carbohydrates":"24g","fat":"30g","calories":"462"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -412,7 +412,7 @@
       "Protein-focused taco night done in 20 minutes",
       "Family appeal increases consistency"
     ],
-    "nutrition_highlights": {"protein":"27g","calories":"490"},
+    "nutrition_highlights": {"protein":"27g","carbohydrates":"30g","fat":"22g","calories":"418"},
     "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -440,8 +440,11 @@
       "Protein-forward comfort food increases adherence",
       "Adds vegetables with minimal extra time"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"620"},
-    "storage": "Best within 3–4 days refrigerated. Reheat to 165°F."
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"60g","fat":"18g","calories":"522"},
+    "storage_instructions": "Best within 3–4 days refrigerated. Reheat to 165°F.",
+    "created_date": "2024-12-28",
+    "last_updated": "2024-12-28",
+    "rd_approved": true
   }
 ]
 

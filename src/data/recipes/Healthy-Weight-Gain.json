@@ -36,7 +36,7 @@
       "Meal-prep format helps hard gainers hit daily calorie targets",
       "Highly enjoyable flavors encourage larger portions"
     ],
-    "nutrition_highlights": {"protein":"36g","calories":"600"},
+    "nutrition_highlights": {"protein":"36g","carbohydrates":"33g","fat":"22g","calories":"432"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F internal temperature."
   },
   {
@@ -71,7 +71,7 @@
       "Savory flavors increase appetite in low-hunger hard gainers",
       "Balanced carbs support later training sessions"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"520"},
+    "nutrition_highlights": {"protein":"43g","carbohydrates":"36g","fat":"18g","calories":"469"},
     "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F or enjoy cold."
   },
   {
@@ -101,7 +101,7 @@
       "Protein supports muscle repair post-practice",
       "Carbs replenish glycogen for next session"
     ],
-    "nutrition_highlights": {"protein":"35g","calories":"520"},
+    "nutrition_highlights": {"protein":"52g","carbohydrates":"64g","fat":"16g","calories":"575"},
     "storage": "Best consumed immediately; if prepared ahead, keep refrigerated and consume within 24 hours. Shake before drinking."
   },
   {
@@ -136,7 +136,7 @@
       "Palatable flavors encourage consistent large portions",
       "Simple technique fits busy training schedules"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"610"},
+    "nutrition_highlights": {"protein":"41g","carbohydrates":"55g","fat":"15g","calories":"503"},
     "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -171,7 +171,7 @@
       "High protein and easy carbs support training volume",
       "Batch prep ensures consistent calorie intake"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "nutrition_highlights": {"protein":"26g","carbohydrates":"42g","fat":"13g","calories":"385"},
     "storage": "Keeps 3–4 days refrigerated or 1–2 months frozen. Reheat to 165°F."
   },
   {
@@ -203,7 +203,7 @@
       "Easy-to-like flavors promote adequate intake",
       "Simple prep keeps consistency high in off-season"
     ],
-    "nutrition_highlights": {"protein":"38g","calories":"520"},
+    "nutrition_highlights": {"protein":"56g","carbohydrates":"17g","fat":"11g","calories":"384"},
     "storage": "Best fresh; cooked tuna is safe 3–4 days refrigerated. Reheat to 145°F if reheating."
   },
   {
@@ -239,7 +239,7 @@
       "Moderate fat keeps appetite intact for total daily intake",
       "Carbs support training volume and recovery"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"580"},
+    "nutrition_highlights": {"protein":"34g","carbohydrates":"57g","fat":"8g","calories":"431"},
     "storage": "Keeps 3–5 days refrigerated or 1–2 months frozen. Reheat to 165°F."
   },
   {
@@ -275,7 +275,7 @@
       "Comforting texture promotes appetite and repeat portions",
       "Batch-friendly for consistent intake"
     ],
-    "nutrition_highlights": {"protein":"25g","calories":"520"},
+    "nutrition_highlights": {"protein":"17g","carbohydrates":"40g","fat":"10g","calories":"304"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -308,7 +308,7 @@
       "Craveable flavor encourages larger portions",
       "Easy to prep ahead for busy training weeks"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"500"},
+    "nutrition_highlights": {"protein":"42g","carbohydrates":"8g","fat":"7g","calories":"264"},
     "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -344,7 +344,7 @@
       "Budget-friendly without sacrificing quality fuel",
       "Meal prep format supports consistent intake"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"560"},
+    "nutrition_highlights": {"protein":"36g","carbohydrates":"33g","fat":"8g","calories":"333"},
     "storage": "Keeps 3–4 days refrigerated or 2–3 months frozen. Reheat to 165°F."
   },
   {
@@ -377,7 +377,7 @@
       "Comfort-food profile encourages large portions",
       "One-pan method reduces effort for busy families"
     ],
-    "nutrition_highlights": {"protein":"31g","calories":"560"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"25g","fat":"21g","calories":"392"},
     "storage": "Keeps 3–4 days refrigerated. Reheat to 165°F."
   },
   {
@@ -411,7 +411,7 @@
       "Carb base supports training volume",
       "Easy to batch for weeknight reliability"
     ],
-    "nutrition_highlights": {"protein":"30g","calories":"580"},
+    "nutrition_highlights": {"protein":"30g","carbohydrates":"53g","fat":"6g","calories":"381"},
     "storage": "Keeps 3–4 days refrigerated."
   },
   {
@@ -446,7 +446,7 @@
       "High protein supports mass gain without heavy fats",
       "Perfect for lunchboxes during off-season training"
     ],
-    "nutrition_highlights": {"protein":"32g","calories":"560"},
+    "nutrition_highlights": {"protein":"44g","carbohydrates":"84g","fat":"10g","calories":"610"},
     "storage": "Best within 3–4 days refrigerated."
   },
   {
@@ -476,7 +476,7 @@
       "Quick prep fits busy schedules",
       "Carb base supports recovery and training"
     ],
-    "nutrition_highlights": {"protein":"34g","calories":"540"},
+    "nutrition_highlights": {"protein":"35g","carbohydrates":"46g","fat":"7g","calories":"376"},
     "storage": "Best within 3–4 days refrigerated."
   },
   {
@@ -506,7 +506,7 @@
       "Creamy texture improves palatability for low appetite",
       "Fast prep increases compliance"
     ],
-    "nutrition_highlights": {"protein":"31g","calories":"430"},
+    "nutrition_highlights": {"protein":"19g","carbohydrates":"4g","fat":"15g","calories":"220"},
     "storage": "Best within 3–4 days refrigerated."
   }
 ]

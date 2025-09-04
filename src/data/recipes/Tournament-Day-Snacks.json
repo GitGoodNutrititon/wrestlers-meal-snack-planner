@@ -23,7 +23,7 @@
       "Simple sugars provide immediate energy without heaviness",
       "Very low fiber reduces risk of GI distress during warm-up"
     ],
-    "nutrition_highlights": { "protein": "3g", "carbohydrates": "50g", "calories": "280" },
+    "nutrition_highlights": { "protein": "3g", "carbohydrates": "50g", "fat": "2g", "calories": "230" },
     "storage": "Best same day."
   },
   {
@@ -50,7 +50,7 @@
       "Fast-digesting carbs top off glycogen quickly",
       "Minimal fat and fiber to avoid stomach discomfort"
     ],
-    "nutrition_highlights": { "protein": "2g", "carbohydrates": "32g", "calories": "160" },
+    "nutrition_highlights": { "protein": "2g", "carbohydrates": "32g", "fat": "2g", "calories": "154" },
     "storage": "Best same day."
   },
   {
@@ -77,7 +77,7 @@
       "Simple carbs provide quick energy for explosive efforts",
       "Sodium supports fluid retention for better hydration during rounds"
     ],
-    "nutrition_highlights": { "protein": "3g", "carbohydrates": "45g", "calories": "210" },
+    "nutrition_highlights": { "protein": "3g", "carbohydrates": "45g", "fat": "1g", "calories": "201" },
     "storage": "Best same day."
   },
   {
@@ -103,7 +103,7 @@
       "Low residue keeps stomach calm during warm-up",
       "Quick glucose availability supports short, intense bouts"
     ],
-    "nutrition_highlights": { "protein": "2g", "carbohydrates": "28g", "calories": "140" },
+    "nutrition_highlights": { "protein": "2g", "carbohydrates": "28g", "fat": "0g", "calories": "120" },
     "storage": "Best same day."
   },
   {
@@ -129,7 +129,7 @@
       "Electrolytes aid hydration and muscle function",
       "Small carb portion tops off glycogen without GI upset"
     ],
-    "nutrition_highlights": { "protein": "2g", "carbohydrates": "34g", "calories": "150" },
+    "nutrition_highlights": { "protein": "2g", "carbohydrates": "34g", "fat": "0g", "calories": "144" },
     "storage": "Best same day."
   },
   {
@@ -157,7 +157,7 @@
       "Low-fiber, low-fat for minimal stomach load",
       "Portable format suits fast tournament transitions"
     ],
-    "nutrition_highlights": { "protein": "3g", "carbohydrates": "45g", "calories": "220" },
+    "nutrition_highlights": { "protein": "3g", "carbohydrates": "45g", "fat": "0g", "calories": "192" },
     "storage": "Best same day."
   },
   {
@@ -184,7 +184,7 @@
       "Very easy on the stomach for nervous competitors",
       "Portable and shelf-stable for long tournament days"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "30g", "calories": "130" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "30g", "fat": "0g", "calories": "124" },
     "storage": "Best same day."
   },
   {
@@ -219,7 +219,7 @@
       "Antioxidants help reduce inflammation from intense training",
       "Make-ahead convenience perfect for busy wrestling families"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "calories": "70" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "fat": "0g", "calories": "64" },
     "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
   {
@@ -251,10 +251,10 @@
     "wrestling_specific_benefits": [
       "High vitamin C content supports immune system during training stress",
       "Natural electrolytes plus added mix support hydration and recovery",
-      "Caffeine-free option perfect for evening practices",
+      "Caffeine-free option perfect for evening practices",  
       "Tart flavor helps combat post-practice nausea"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "calories": "65" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "fat": "0g", "calories": "60" },
     "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
   {
@@ -289,7 +289,7 @@
       "Sweet, smooth flavor appeals to younger wrestlers",
       "Antioxidants help reduce inflammation from training"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "16g", "calories": "75" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "16g", "fat": "0g", "calories": "68" },
     "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
   {
@@ -324,7 +324,7 @@
       "Natural electrolytes plus added mix support hydration and recovery",
       "Antioxidant blend helps reduce inflammation from intense training"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "calories": "70" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "15g", "fat": "0g", "calories": "64" },
     "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
   {
@@ -359,7 +359,7 @@
       "Natural electrolytes plus added mix support hydration and recovery",
       "Complex antioxidant profile helps reduce inflammation from intense training"
     ],
-    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "calories": "65" },
+    "nutrition_highlights": { "protein": "1g", "carbohydrates": "14g", "fat": "0g", "calories": "60" },
     "storage": "Refrigerate up to 4–5 days. Flavor improves over time."
   },
 
@@ -391,7 +391,7 @@
       "25–30g protein aids muscle repair between matches",
       "Warm, soft foods reduce GI stress while providing sustained energy"
     ],
-    "nutrition_highlights": { "protein": "28g", "carbohydrates": "55g", "calories": "480" },
+    "nutrition_highlights": { "protein": "28g", "carbohydrates": "55g", "fat": "8g", "calories": "408" },
     "storage": "Keep hot in thermos up to 4–5 hours; refrigerate leftovers within 2 hours; reheat to 165°F."
   },
   {
@@ -421,7 +421,7 @@
       "25g+ protein supports recovery between bouts",
       "Low-fiber carbs prevent stomach heaviness"
     ],
-    "nutrition_highlights": { "protein": "27g", "carbohydrates": "55g", "calories": "520" },
+    "nutrition_highlights": { "protein": "27g", "carbohydrates": "55g", "fat": "8g", "calories": "404" },
     "storage": "Keep sandwich refrigerated in cooler; consume within 24 hours."
   },
   {
@@ -447,7 +447,7 @@
       "Protein supports muscle repair and satiety",
       "White bagel provides sustained, easily digestible carbs"
     ],
-    "nutrition_highlights": { "protein": "24g", "carbohydrates": "65g", "calories": "520" },
+    "nutrition_highlights": { "protein": "24g", "carbohydrates": "65g", "fat": "3g", "calories": "383" },
     "storage": "Keep shake cold per label; eat bagel same day."
   },
   {
@@ -476,7 +476,7 @@
       "20g protein supports recovery",
       "Soft textures reduce GI stress while providing sustained energy"
     ],
-    "nutrition_highlights": { "protein": "20g", "carbohydrates": "35g", "calories": "360" },
+    "nutrition_highlights": { "protein": "20g", "carbohydrates": "35g", "fat": "15g", "calories": "335" },
     "storage": "Keep refrigerated; consume within 3–4 days."
   },
   {
@@ -506,7 +506,7 @@
       "25g protein supports muscle recovery",
       "Moderate fiber keeps digestion comfortable"
     ],
-    "nutrition_highlights": { "protein": "25g", "carbohydrates": "50g", "calories": "480" },
+    "nutrition_highlights": { "protein": "25g", "carbohydrates": "50g", "fat": "8g", "calories": "372" },
     "storage": "Keep refrigerated in cooler; eat within 24 hours."
   },
   {
@@ -536,7 +536,7 @@
       "30g protein aids repair without heavy sauces",
       "Digestible carbs refuel glycogen for late-day matches"
     ],
-    "nutrition_highlights": { "protein": "30g", "carbohydrates": "55g", "calories": "520" }
+    "nutrition_highlights": { "protein": "30g", "carbohydrates": "55g", "fat": "6g", "calories": "394" }
   },
   {
     "id": "tournament-between-match-007",
@@ -563,7 +563,7 @@
       "Protein and carbs provide balanced energy between bouts",
       "Simple, portable components reduce prep stress on tournament day"
     ],
-    "nutrition_highlights": { "protein": "22g", "carbohydrates": "40g", "calories": "430" },
+    "nutrition_highlights": { "protein": "22g", "carbohydrates": "40g", "fat": "12g", "calories": "344" },
     "storage": "Keep refrigerated in cooler; consume within 24 hours."
   }
 ]
