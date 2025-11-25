@@ -43,15 +43,15 @@ export default function RecipeCard({ recipe, onClick }: RecipeCardProps) {
 
   return (
     <div
-      className="group cursor-pointer flex flex-col relative bg-white rounded-lg border border-gray-200 hover:border-gray-300 hover:shadow-md transition-all duration-200 overflow-hidden"
+      className="group cursor-pointer flex flex-col relative bg-white rounded-xl border border-gray-200 shadow-sm hover:shadow-lg hover:-translate-y-1 transition-all duration-300 overflow-hidden"
       onClick={handleClick}
       onKeyDown={handleKeyDown}
       tabIndex={0}
       role="button"
       aria-label={`View recipe for ${recipe.title}`}
     >
-      {/* Subtle brand accent line */}
-      <div className="absolute top-0 left-0 right-0 h-0.5 bg-brand-forest"></div>
+      {/* Premium accent line */}
+      <div className="absolute top-0 left-0 right-0 h-1 bg-brand-forest"></div>
 
       {/* Recipe Content - More generous padding and spacing */}
       <div className="p-4 flex flex-col flex-grow">
@@ -92,16 +92,16 @@ export default function RecipeCard({ recipe, onClick }: RecipeCardProps) {
               const { primaryTag, secondaryTags } = getTagsToShow();
               return (
                 <>
-                  {/* Primary tag - Green background */}
+                  {/* Primary tag - Green pill */}
                   {primaryTag && (
-                    <span className="text-xs px-2 py-1 bg-brand-forest text-white rounded-full font-medium">
+                    <span className="text-xs px-2.5 py-1 bg-bg-green-light text-brand-forest border border-brand-forest/20 rounded-full font-bold tracking-wide">
                       {formatTag(primaryTag)}
                     </span>
                   )}
                   
                   {/* Secondary tags - Gray outline */}
                   {secondaryTags.map((tag) => (
-                    <span key={tag} className="text-xs px-2 py-1 border border-gray-200 text-gray-600 rounded-full">
+                    <span key={tag} className="text-xs px-2.5 py-1 bg-gray-50 border border-gray-200 text-gray-600 rounded-full font-medium">
                       {formatTag(tag)}
                     </span>
                   ))}
@@ -111,10 +111,10 @@ export default function RecipeCard({ recipe, onClick }: RecipeCardProps) {
           </div>
         </div>
         
-        {/* View Recipe Button */}
-        <div className="mt-auto">
+        {/* View Recipe Button - Outline style to reduce visual weight */}
+        <div className="mt-auto pt-4 border-t border-gray-100">
           <button
-            className="w-full bg-brand-forest text-white text-sm py-2 px-4 rounded-lg font-medium hover:bg-green-700 transition-colors duration-200"
+            className="w-full bg-white text-brand-forest border-2 border-brand-forest text-sm py-2 px-4 rounded-lg font-bold hover:bg-brand-forest hover:text-white transition-colors duration-200"
             onClick={(e) => {
               e.stopPropagation();
               handleClick();

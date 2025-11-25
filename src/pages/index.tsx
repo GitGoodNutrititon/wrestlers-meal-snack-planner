@@ -176,17 +176,29 @@ export default function Home() {
         <meta name="description" content="Instant recipe solutions for wrestling families. Find the perfect meal for your wrestler's specific needs in 30 seconds." />
       </Head>
 
-      <div className="min-h-screen bg-bg-cream">
-        {/* Header */}
-        <header className="bg-white shadow-sm border-b-2 border-brand-forest">
-          <div className="mobile-container lg:desktop-container py-6">
-            <div className="text-center">
-              <h1 className="text-2xl lg:text-3xl font-bold text-brand-charcoal">
-                The Wrestler&apos;s Meal and Snack Planner
-              </h1>
-              <p className="text-text-secondary mt-2">
-                Instant Recipe Solutions for Wrestling Families
-              </p>
+      <div className="min-h-screen bg-gray-50">
+        {/* Header - Clean White with Green Border */}
+        <header className="bg-white border-b border-gray-200 sticky top-0 z-10">
+          {/* Top Green Bar */}
+          <div className="h-1.5 w-full bg-brand-forest"></div>
+          
+          <div className="mobile-container lg:desktop-container py-5">
+            <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+              <div className="text-center md:text-left">
+                <div className="flex items-center justify-center md:justify-start gap-2 mb-1">
+                  <span className="bg-bg-green-light text-brand-forest text-xs font-bold px-2 py-1 rounded-full uppercase tracking-wider border border-brand-forest/20">
+                    Official Tool
+                  </span>
+                </div>
+                <h1 className="text-xl lg:text-2xl font-extrabold text-brand-charcoal tracking-tight">
+                  Wrestler&apos;s Meal Planner
+                </h1>
+                <p className="text-text-secondary text-sm mt-1">
+                  Bullard Nutrition • RD Approved Database
+                </p>
+              </div>
+              
+              {/* Optional: Add a small help/guide link here later */}
             </div>
           </div>
         </header>
