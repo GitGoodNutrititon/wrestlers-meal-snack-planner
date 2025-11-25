@@ -183,7 +183,7 @@ export default function FilterPanel({
                             onClick={() => handleTagClick(tagName)}
                             className={`filter-button text-sm px-3 py-1.5 rounded-full border transition-all duration-200 cursor-help ${
                               isActive 
-                                ? 'bg-bg-green-light text-brand-forest border-brand-forest font-semibold shadow-sm' 
+                                ? 'bg-green-50 text-brand-forest border-brand-forest font-semibold shadow-sm' 
                                 : 'bg-white text-text-secondary border-gray-200 hover:border-brand-forest hover:text-brand-forest'
                             }`}
                             aria-pressed={isActive}
@@ -215,7 +215,7 @@ export default function FilterPanel({
                     onClick={() => handleTagClick(tagName)}
                     className={`filter-button text-sm px-3 py-1.5 rounded-full border transition-all duration-200 cursor-help ${
                       isActive 
-                        ? 'bg-bg-green-light text-brand-forest border-brand-forest font-semibold shadow-sm' 
+                        ? 'bg-green-50 text-brand-forest border-brand-forest font-semibold shadow-sm' 
                         : 'bg-white text-text-secondary border-gray-200 hover:border-brand-forest hover:text-brand-forest'
                     }`}
                     aria-pressed={isActive}

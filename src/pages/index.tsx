@@ -186,7 +186,7 @@ export default function Home() {
             <div className="flex flex-col md:flex-row items-center justify-between gap-4">
               <div className="text-center md:text-left">
                 <div className="flex items-center justify-center md:justify-start gap-2 mb-1">
-                  <span className="bg-bg-green-light text-brand-forest text-xs font-bold px-2 py-1 rounded-full uppercase tracking-wider border border-brand-forest/20">
+                  <span className="bg-green-50 text-brand-forest text-xs font-bold px-2 py-1 rounded-full uppercase tracking-wider border border-brand-forest/20">
                     Official Tool
                   </span>
                 </div>

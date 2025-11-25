@@ -94,7 +94,7 @@ export default function RecipeCard({ recipe, onClick }: RecipeCardProps) {
                 <>
                   {/* Primary tag - Green pill */}
                   {primaryTag && (
-                    <span className="text-xs px-2.5 py-1 bg-bg-green-light text-brand-forest border border-brand-forest/20 rounded-full font-bold tracking-wide">
+                    <span className="text-xs px-2.5 py-1 bg-green-50 text-brand-forest border border-brand-forest/20 rounded-full font-bold tracking-wide">
                       {formatTag(primaryTag)}
                     </span>
                   )}
